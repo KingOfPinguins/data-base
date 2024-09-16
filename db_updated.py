@@ -134,7 +134,15 @@ def main():
     # Boca Raton
     # Orlando
     
-    CITYs = ['Orlando', 'Tampa', 'Sarasota', ]
+    #CITYs = ['Orlando', 'Tampa', 'Sarasota', ]
+    
+    CITYs = LOCATION_ALL['USA']['Florida']
+    
+    # with open("city-california.txt", "r") as dat:
+    #     CITYs = dat.readlines()
+    #     for city in cities_pr:
+    #         cities_all.append(city.replace('\n', ''))
+    
     STATE = 'Florida'
     COUNTRY = 'USA'
     
