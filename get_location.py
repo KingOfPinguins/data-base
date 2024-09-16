@@ -54,9 +54,6 @@ class locations_collector():
         self.data_lat_long = str(CITY) + ': ' + str(lat_long.replace('@', ''))
         sleep(1)
         driver.close()
-        
-        
-
 
 
 
@@ -64,17 +61,6 @@ if __name__ == "__main__":
     counter = 0
     data = []
     for city in cities_all:
-        # try:
-        #     if counter >= 6:
-        #         sleep(5)
-        #         counter = 0
-        #     p = Process(target=locations_collector, args=(COUNTRY, STATE, CITY,))
-        #     p.start()
-        #     counter += 1
-
-                
-        # except:
-        #     print("SOMETHING WENT WRONG:", COUNTRY, STATE, CITY)
         collector = locations_collector(COUNTRY, STATE, city)
         data.append(collector.data_lat_long)
     print(data)
