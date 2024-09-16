@@ -1,0 +1,18 @@
+
+2024-08-17 16:48:31.129954 :: Start
+2024-08-17 16:48:33.143720 :: PROCESS FOR - ppf STARTED
+2024-08-17 16:48:33.143720 :: https://www.google.ca/maps/@28.4332443,-81.4682186,10.75z?entry=ttu
+2024-08-17 16:48:39.635033 :: open site - https://www.google.ca/maps/@28.4332443,-81.4682186,10.75z?entry=ttu
+2024-08-17 16:48:42.941683 :: DATA for searching:
+LOCATION:28.4332443,-81.4682186,10.75z
+INTEREST:ppf
+CITY:Orlando
+2024-08-17 16:48:43.060223 :: search  - ppf
+2024-08-17 16:48:43.060223 :: Insert key-word:ppf
+2024-08-17 16:48:45.329489 :: pressed search button
+2024-08-17 16:48:49.350354 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="e1711753-1d29-4e8e-8eb6-9ddffe2f4630", element="747c5f4a-727e-4d11-a5fd-c24c774fd605")>
+2024-08-17 16:48:49.350354 :: SCROLLING STARTED
+2024-08-17 16:49:09.474672 :: timer ++ 2
+2024-08-17 16:49:39.558507 :: timer ++ 3
+2024-08-17 16:49:39.558507 :: SCROLLING DONE 
+2024-08-17 16:49:39.564518 :: SPENT time forppf - 0:01:06.419799

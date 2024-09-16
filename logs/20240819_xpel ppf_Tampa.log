@@ -1,0 +1,18 @@
+
+2024-08-19 10:30:52.206289 :: Start
+2024-08-19 10:30:54.218349 :: PROCESS FOR - xpel ppf STARTED
+2024-08-19 10:30:54.219349 :: https://www.google.ca/maps/@27.9720675,-82.5388135,11.5z?entry=ttu
+2024-08-19 10:31:14.086337 :: open site - https://www.google.ca/maps/@27.9720675,-82.5388135,11.5z?entry=ttu
+2024-08-19 10:31:16.459941 :: DATA for searching:
+LOCATION:27.9720675,-82.5388135,11.5z
+INTEREST:xpel ppf
+CITY:Tampa
+2024-08-19 10:31:17.040744 :: search  - xpel ppf
+2024-08-19 10:31:17.040744 :: Insert key-word:xpel ppf
+2024-08-19 10:31:19.426271 :: pressed search button
+2024-08-19 10:31:23.458363 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="86d1280f-4a32-4add-8590-0a012a07407f", element="5df39b94-b239-454b-b0b2-6332f7576da6")>
+2024-08-19 10:31:23.458363 :: SCROLLING STARTED
+2024-08-19 10:31:43.777371 :: timer ++ 2
+2024-08-19 10:32:13.912924 :: timer ++ 3
+2024-08-19 10:32:13.915926 :: SCROLLING DONE 
+2024-08-19 10:32:13.928928 :: SPENT time forxpel ppf - 0:01:19.710579

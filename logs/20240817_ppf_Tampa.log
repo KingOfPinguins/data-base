@@ -1,0 +1,18 @@
+
+2024-08-17 16:50:31.345330 :: Start
+2024-08-17 16:50:33.357834 :: PROCESS FOR - ppf STARTED
+2024-08-17 16:50:33.358801 :: https://www.google.ca/maps/@27.9720675,-82.5388135,11.5z?entry=ttu
+2024-08-17 16:50:40.320994 :: open site - https://www.google.ca/maps/@27.9720675,-82.5388135,11.5z?entry=ttu
+2024-08-17 16:50:42.487708 :: DATA for searching:
+LOCATION:27.9720675,-82.5388135,11.5z
+INTEREST:ppf
+CITY:Tampa
+2024-08-17 16:50:42.947983 :: search  - ppf
+2024-08-17 16:50:42.985987 :: Insert key-word:ppf
+2024-08-17 16:50:45.291269 :: pressed search button
+2024-08-17 16:50:49.320255 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="6ed2e523-ced0-46a0-a71e-283d1443e53c", element="9f0367a9-bcde-45a6-b14c-9ca5200e01d2")>
+2024-08-17 16:50:49.320255 :: SCROLLING STARTED
+2024-08-17 16:51:09.450626 :: timer ++ 2
+2024-08-17 16:51:39.579648 :: timer ++ 3
+2024-08-17 16:51:39.580647 :: SCROLLING DONE 
+2024-08-17 16:51:39.585645 :: SPENT time forppf - 0:01:06.227811

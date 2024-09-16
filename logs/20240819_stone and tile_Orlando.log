@@ -1,0 +1,18 @@
+
+2024-08-19 10:28:52.147113 :: Start
+2024-08-19 10:28:54.154051 :: PROCESS FOR - stone and tile STARTED
+2024-08-19 10:28:54.154969 :: https://www.google.ca/maps/@28.4332443,-81.4682186,10.75z?entry=ttu
+2024-08-19 10:29:12.740253 :: open site - https://www.google.ca/maps/@28.4332443,-81.4682186,10.75z?entry=ttu
+2024-08-19 10:29:14.799187 :: DATA for searching:
+LOCATION:28.4332443,-81.4682186,10.75z
+INTEREST:stone and tile
+CITY:Orlando
+2024-08-19 10:29:15.100355 :: search  - stone and tile
+2024-08-19 10:29:15.109873 :: Insert key-word:stone and tile
+2024-08-19 10:29:17.462441 :: pressed search button
+2024-08-19 10:29:21.500432 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="2f9b4715-c901-47a2-aed4-abfcae238b1b", element="f8659152-9285-45a3-8def-044d71834d64")>
+2024-08-19 10:29:21.500432 :: SCROLLING STARTED
+2024-08-19 10:29:41.672900 :: timer ++ 2
+2024-08-19 10:30:11.922837 :: timer ++ 3
+2024-08-19 10:30:11.922837 :: SCROLLING DONE 
+2024-08-19 10:30:11.929360 :: SPENT time forstone and tile - 0:01:17.774309

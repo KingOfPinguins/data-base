@@ -1,0 +1,151 @@
+
+2023-11-30 20:30:17.070057 :: Start
+2023-11-30 20:30:19.078540 :: PROCESS FOR -car detailing shopSTARTED
+2023-11-30 20:30:19.078540 :: https://www.google.com/maps/@43.7182639,-79.7076911,10z?entry=ttu
+2023-11-30 20:30:28.150212 :: DATA for searching:
+LOCATION:43.7182639,-79.7076911,10z
+INTEREST:car detailing shop
+CITY:Toronto
+2023-11-30 20:30:28.813693 :: Insert key-word:car detailing shop
+2023-11-30 20:30:35.195331 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="6d472a65-d0f6-4c52-9b9f-67a69bbcdaed", element="6c4a4f28-a976-4c77-b1eb-41643efa796b")>
+2023-11-30 20:30:35.199325 :: One scroll - 1500
+2023-11-30 20:30:37.209431 :: One scroll - 1500
+2023-11-30 20:30:39.212859 :: One scroll - 1500
+2023-11-30 20:30:41.218119 :: One scroll - 1500
+2023-11-30 20:30:43.221678 :: One scroll - 1500
+2023-11-30 20:30:45.237995 :: One scroll - 1500
+2023-11-30 20:30:47.239405 :: One scroll - 1500
+2023-11-30 20:30:49.254767 :: One scroll - 1500
+2023-11-30 20:30:51.255170 :: One scroll - 1500
+2023-11-30 20:30:53.260995 :: One scroll - 1500
+2023-11-30 20:30:55.275712 :: timer ++ 2
+2023-11-30 20:30:55.281090 :: One scroll - 1500
+2023-11-30 20:30:58.291473 :: One scroll - 1500
+2023-11-30 20:31:01.299007 :: One scroll - 1500
+2023-11-30 20:31:04.318767 :: One scroll - 1500
+2023-11-30 20:31:07.340753 :: One scroll - 1500
+2023-11-30 20:31:10.352163 :: One scroll - 1500
+2023-11-30 20:31:13.355629 :: One scroll - 1500
+2023-11-30 20:31:16.361154 :: One scroll - 1500
+2023-11-30 20:31:19.374741 :: One scroll - 1500
+2023-11-30 20:31:22.377854 :: One scroll - 1500
+2023-11-30 20:31:25.381067 :: timer ++ 3
+2023-11-30 20:31:25.384908 :: GETTING DATA counter: 0
+2023-11-30 20:31:35.402855 :: --- CONTINUE ---
+2023-11-30 20:31:38.945508 :: get data from element
+2023-11-30 20:31:39.161056 :: def_addr 111 Automall Blvd Suite B, Whitchurch-Stouffville, ON L4A 0W7
+2023-11-30 20:31:39.172602 :: def_web_page kiaofstouffville.ca
+2023-11-30 20:31:49.174831 :: <<<< 43.7182639,-79.7076911,10zcar detailing shopToronto1 >>>>
+2023-11-30 20:31:49.174831 :: <<<< 43.7182639,-79.7076911,10zcar detailing shopToronto1 >>>>
+2023-11-30 20:31:50.336646 :: GETTING DATA counter: 1
+2023-11-30 20:32:00.345861 :: --- CONTINUE ---
+2023-11-30 20:32:03.760377 :: get data from element
+2023-11-30 20:32:03.908024 :: def_addr 1585 Britannia Rd E Unit B2, Mississauga, ON L4W 2M4
+2023-11-30 20:32:03.923663 :: def_web_page prodetailingsupplies.ca
+2023-11-30 20:32:13.932485 :: <<<< 43.7182639,-79.7076911,10zcar detailing shopToronto2 >>>>
+2023-11-30 20:32:13.932485 :: <<<< 43.7182639,-79.7076911,10zcar detailing shopToronto2 >>>>
+2023-11-30 20:32:15.088076 :: GETTING DATA counter: 2
+2023-11-30 20:32:25.100569 :: --- CONTINUE ---
+2023-11-30 20:32:28.463418 :: get data from element
+2023-11-30 20:32:28.611640 :: def_addr 3466 Dundas St W #9, Toronto, ON M6S 2P3
+2023-11-30 20:32:28.611640 :: def_web_page genbook.com
+2023-11-30 20:32:38.638457 :: <<<< 43.7182639,-79.7076911,10zcar detailing shopToronto3 >>>>
+2023-11-30 20:32:38.638457 :: <<<< 43.7182639,-79.7076911,10zcar detailing shopToronto3 >>>>
+2023-11-30 20:32:39.794689 :: GETTING DATA counter: 3
+2023-11-30 20:32:49.800316 :: --- CONTINUE ---
+2023-11-30 20:32:53.255068 :: get data from element
+2023-11-30 20:32:53.271769 :: def_addr 101 Freshway Dr A, Concord, ON L4K 1R9
+2023-11-30 20:32:53.287403 :: def_web_page business.site
+2023-11-30 20:32:53.287403 :: def_phone (416) 300-8786
+2023-11-30 20:32:53.287403 :: <<<< 43.7182639,-79.7076911,10zcar detailing shopToronto4 >>>>
+2023-11-30 20:32:53.287403 :: <<<< 43.7182639,-79.7076911,10zcar detailing shopToronto4 >>>>
+2023-11-30 20:32:54.457175 :: GETTING DATA counter: 4
+2023-11-30 20:33:04.470862 :: --- CONTINUE ---
+2023-11-30 20:33:07.845757 :: get data from element
+2023-11-30 20:33:07.861367 :: def_addr 140 Regina Rd, Woodbridge, ON L4L 8N1
+2023-11-30 20:33:07.876993 :: def_web_page cleancarclub.co
+2023-11-30 20:33:07.876993 :: def_phone (289) 654-6628
+2023-11-30 20:33:07.876993 :: <<<< 43.7182639,-79.7076911,10zcar detailing shopToronto5 >>>>
+2023-11-30 20:33:07.876993 :: <<<< 43.7182639,-79.7076911,10zcar detailing shopToronto5 >>>>
+2023-11-30 20:33:09.018480 :: GETTING DATA counter: 5
+2023-11-30 20:33:19.028103 :: --- CONTINUE ---
+2023-11-30 20:33:22.355098 :: get data from element
+2023-11-30 20:33:32.382960 :: def_web_page primediaautomotive.com
+2023-11-30 20:33:32.398612 :: def_phone +1 323-213-8125
+2023-11-30 20:33:32.398612 :: <<<< 43.7182639,-79.7076911,10zcar detailing shopToronto6 >>>>
+2023-11-30 20:33:32.398612 :: <<<< 43.7182639,-79.7076911,10zcar detailing shopToronto6 >>>>
+2023-11-30 20:33:33.497604 :: GETTING DATA counter: 6
+2023-11-30 20:33:43.509875 :: --- CONTINUE ---
+2023-11-30 20:33:46.884315 :: get data from element
+2023-11-30 20:33:46.899941 :: def_addr 9 Alhart St, Richmond Hill, ON L4E 5E7
+2023-11-30 20:33:46.915603 :: def_web_page dirtydetailing.ca
+2023-11-30 20:33:46.931192 :: def_phone (647) 389-2195
+2023-11-30 20:33:46.931192 :: <<<< 43.7182639,-79.7076911,10zcar detailing shopToronto7 >>>>
+2023-11-30 20:33:46.931192 :: <<<< 43.7182639,-79.7076911,10zcar detailing shopToronto7 >>>>
+2023-11-30 20:33:48.117824 :: GETTING DATA counter: 7
+2023-11-30 20:33:58.126401 :: --- CONTINUE ---
+2023-11-30 20:34:01.494555 :: get data from element
+2023-11-30 20:34:11.536975 :: def_web_page cleendetailing.com
+2023-11-30 20:34:11.556478 :: <<<< 43.7182639,-79.7076911,10zcar detailing shopToronto8 >>>>
+2023-11-30 20:34:11.556478 :: <<<< 43.7182639,-79.7076911,10zcar detailing shopToronto8 >>>>
+2023-11-30 20:34:12.681601 :: GETTING DATA counter: 8
+2023-11-30 20:34:22.693900 :: --- CONTINUE ---
+2023-11-30 20:34:26.020789 :: get data from element
+2023-11-30 20:34:26.036423 :: def_addr 6201 Hwy 7 Suite 11, Woodbridge, ON L4H 0K7
+2023-11-30 20:34:26.053701 :: def_web_page drivecleanautobath.com
+2023-11-30 20:34:36.069602 :: <<<< 43.7182639,-79.7076911,10zcar detailing shopToronto9 >>>>
+2023-11-30 20:34:36.069602 :: <<<< 43.7182639,-79.7076911,10zcar detailing shopToronto9 >>>>
+2023-11-30 20:34:37.201261 :: GETTING DATA counter: 9
+2023-11-30 20:34:47.209635 :: --- CONTINUE ---
+2023-11-30 20:34:50.571518 :: get data from element
+2023-11-30 20:34:50.593845 :: def_addr 422 N Rivermede Rd Unit 6, Vaughan, ON L4K 4H1
+2023-11-30 20:34:50.601989 :: def_web_page instagram.com
+2023-11-30 20:34:50.601989 :: def_phone (647) 524-0890
+2023-11-30 20:34:50.601989 :: <<<< 43.7182639,-79.7076911,10zcar detailing shopToronto10 >>>>
+2023-11-30 20:34:50.601989 :: <<<< 43.7182639,-79.7076911,10zcar detailing shopToronto10 >>>>
+2023-11-30 20:34:51.750475 :: GETTING DATA counter: 10
+2023-11-30 20:35:01.760095 :: --- CONTINUE ---
+2023-11-30 20:35:05.146270 :: get data from element
+2023-11-30 20:35:05.177937 :: def_addr 27 Mintwood Rd, Thornhill, ON L4J 9C3
+2023-11-30 20:35:05.177937 :: def_web_page business.site
+2023-11-30 20:35:05.193570 :: <<<< 43.7182639,-79.7076911,10zcar detailing shopToronto11 >>>>
+2023-11-30 20:35:05.193570 :: <<<< 43.7182639,-79.7076911,10zcar detailing shopToronto11 >>>>
+2023-11-30 20:35:06.334805 :: GETTING DATA counter: 11
+2023-11-30 20:35:16.346737 :: --- CONTINUE ---
+2023-11-30 20:35:19.675319 :: get data from element
+2023-11-30 20:35:19.697802 :: def_addr 2827 Eglinton Ave E, Scarborough, ON M1J 2E1
+2023-11-30 20:35:19.709995 :: def_web_page business.site
+2023-11-30 20:35:19.709995 :: def_phone (647) 779-3313
+2023-11-30 20:35:19.709995 :: <<<< 43.7182639,-79.7076911,10zcar detailing shopToronto12 >>>>
+2023-11-30 20:35:19.709995 :: <<<< 43.7182639,-79.7076911,10zcar detailing shopToronto12 >>>>
+2023-11-30 20:35:20.876179 :: GETTING DATA counter: 12
+2023-11-30 20:35:30.884038 :: --- CONTINUE ---
+2023-11-30 20:35:34.203321 :: get data from element
+2023-11-30 20:35:34.220744 :: def_addr 124 Deerwood Crescent, Richmond Hill, ON L4E 4B2
+2023-11-30 20:35:34.220744 :: def_web_page rubitoutdetailing.square.site
+2023-11-30 20:35:34.235271 :: def_phone (416) 918-1431
+2023-11-30 20:35:34.235271 :: <<<< 43.7182639,-79.7076911,10zcar detailing shopToronto13 >>>>
+2023-11-30 20:35:34.235271 :: <<<< 43.7182639,-79.7076911,10zcar detailing shopToronto13 >>>>
+2023-11-30 20:35:35.365388 :: GETTING DATA counter: 13
+2023-11-30 20:35:40.362729 :: --- CONTINUE ---
+2023-11-30 20:35:56.605599 :: Done except?
+2023-11-30 20:35:56.605599 :: GETTING DATA counter: 14
+2023-11-30 20:36:02.663395 :: Done except?
+2023-11-30 20:36:02.663395 :: GETTING DATA counter: 15
+2023-11-30 20:36:04.681201 :: Done except?
+2023-11-30 20:36:04.681201 :: GETTING DATA counter: 16
+2023-11-30 20:36:20.787248 :: Done except?
+2023-11-30 20:36:20.787248 :: GETTING DATA counter: 17
+2023-11-30 20:36:36.936165 :: Done except?
+2023-11-30 20:36:36.936165 :: GETTING DATA counter: 18
+2023-11-30 20:36:53.225029 :: Done except?
+2023-11-30 20:36:53.225029 :: GETTING DATA counter: 19
+2023-11-30 20:37:09.504427 :: Done except?
+2023-11-30 20:37:09.504427 :: GETTING DATA counter: 20
+2023-11-30 20:37:25.771712 :: Done except?
+2023-11-30 20:37:25.771712 :: GETTING DATA counter: 21
+2023-11-30 20:37:42.035801 :: Done except?
+2023-11-30 20:37:42.035801 :: GETTING DATA counter: 22
+2023-11-30 20:37:58.301748 :: Done except?
+2023-11-30 20:37:58.301748 :: break
+2023-11-30 20:37:58.301748 :: SPENT time forcar detailing shop - 0:07:39.223208

@@ -1,0 +1,18 @@
+
+2024-08-17 16:48:31.150239 :: Start
+2024-08-17 16:48:33.159210 :: PROCESS FOR - 3m ppf STARTED
+2024-08-17 16:48:33.159210 :: https://www.google.ca/maps/@28.4332443,-81.4682186,10.75z?entry=ttu
+2024-08-17 16:48:39.622033 :: open site - https://www.google.ca/maps/@28.4332443,-81.4682186,10.75z?entry=ttu
+2024-08-17 16:48:41.881583 :: DATA for searching:
+LOCATION:28.4332443,-81.4682186,10.75z
+INTEREST:3m ppf
+CITY:Orlando
+2024-08-17 16:48:42.094361 :: search  - 3m ppf
+2024-08-17 16:48:42.101362 :: Insert key-word:3m ppf
+2024-08-17 16:48:44.434675 :: pressed search button
+2024-08-17 16:48:48.458232 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="b6424edc-eb3e-4489-8357-bd3462087aae", element="252cd8ea-6b92-4c72-9f52-29f867f94e73")>
+2024-08-17 16:48:48.458232 :: SCROLLING STARTED
+2024-08-17 16:49:08.568491 :: timer ++ 2
+2024-08-17 16:49:38.684922 :: timer ++ 3
+2024-08-17 16:49:38.684922 :: SCROLLING DONE 
+2024-08-17 16:49:38.689799 :: SPENT time for3m ppf - 0:01:05.530589

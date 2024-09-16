@@ -1,0 +1,36 @@
+
+2024-08-12 21:01:59.289406 :: Start
+2024-08-12 21:02:01.303654 :: PROCESS FOR - kitchen countertop STARTED
+2024-08-12 21:02:01.303654 :: https://www.google.com/maps/@26.0396872,-80.2165776,13z?entry=ttu
+2024-08-12 21:02:07.148990 :: open site - https://www.google.com/maps/@26.0396872,-80.2165776,13z?entry=ttu
+2024-08-12 21:02:09.531384 :: DATA for searching:
+LOCATION:26.0396872,-80.2165776,13z
+INTEREST:kitchen countertop
+CITY:Hollywwood
+2024-08-12 21:02:10.030766 :: search  - kitchen countertop
+2024-08-12 21:02:10.030766 :: Insert key-word:kitchen countertop
+2024-08-12 21:02:12.287564 :: pressed search button
+2024-08-12 21:02:16.316827 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="266baacf-b010-464f-adbb-dc0418a26b37", element="a8ab411e-7654-42f9-8caf-93f1652899e7")>
+2024-08-12 21:02:16.321839 :: One scroll - 1500
+2024-08-12 21:02:18.337612 :: One scroll - 1500
+2024-08-12 21:02:20.355055 :: One scroll - 1500
+2024-08-12 21:02:22.364755 :: One scroll - 1500
+2024-08-12 21:02:24.374794 :: One scroll - 1500
+2024-08-12 21:02:26.451476 :: One scroll - 1500
+2024-08-12 21:02:28.454717 :: One scroll - 1500
+2024-08-12 21:02:30.468787 :: One scroll - 1500
+2024-08-12 21:02:32.487680 :: One scroll - 1500
+2024-08-12 21:02:34.498293 :: One scroll - 1500
+2024-08-12 21:02:36.506511 :: timer ++ 2
+2024-08-12 21:02:36.513511 :: One scroll - 1500
+2024-08-12 21:02:39.521630 :: One scroll - 1500
+2024-08-12 21:02:42.533572 :: One scroll - 1500
+2024-08-12 21:02:45.585803 :: One scroll - 1500
+2024-08-12 21:02:48.598847 :: One scroll - 1500
+2024-08-12 21:02:51.606379 :: One scroll - 1500
+2024-08-12 21:02:54.616283 :: One scroll - 1500
+2024-08-12 21:02:57.639023 :: One scroll - 1500
+2024-08-12 21:03:00.675574 :: One scroll - 1500
+2024-08-12 21:03:03.691979 :: One scroll - 1500
+2024-08-12 21:03:06.697021 :: timer ++ 3
+2024-08-12 21:03:06.700019 :: SPENT time forkitchen countertop - 0:01:05.396365

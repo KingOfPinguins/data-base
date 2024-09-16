@@ -1,0 +1,36 @@
+
+2024-08-12 20:56:09.319930 :: Start
+2024-08-12 20:56:11.330866 :: PROCESS FOR - stone and tile STARTED
+2024-08-12 20:56:11.331729 :: https://www.google.com/maps/@26.3729004,-80.158565,13z?entry=ttu
+2024-08-12 20:56:17.899620 :: open site - https://www.google.com/maps/@26.3729004,-80.158565,13z?entry=ttu
+2024-08-12 20:56:20.549377 :: DATA for searching:
+LOCATION:26.3729004,-80.158565,13z
+INTEREST:stone and tile
+CITY:Boca Raton
+2024-08-12 20:56:20.740473 :: search  - stone and tile
+2024-08-12 20:56:20.741477 :: Insert key-word:stone and tile
+2024-08-12 20:56:23.039300 :: pressed search button
+2024-08-12 20:56:27.057422 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="c3387888-bfeb-4cf5-a695-b1e3bb3917a0", element="2dc4e66c-2b66-42df-a9c0-ac9369eb30d4")>
+2024-08-12 20:56:27.151128 :: One scroll - 1500
+2024-08-12 20:56:29.170534 :: One scroll - 1500
+2024-08-12 20:56:31.185329 :: One scroll - 1500
+2024-08-12 20:56:33.205190 :: One scroll - 1500
+2024-08-12 20:56:35.217528 :: One scroll - 1500
+2024-08-12 20:56:37.226037 :: One scroll - 1500
+2024-08-12 20:56:39.234494 :: One scroll - 1500
+2024-08-12 20:56:41.256107 :: One scroll - 1500
+2024-08-12 20:56:43.272064 :: One scroll - 1500
+2024-08-12 20:56:45.285302 :: One scroll - 1500
+2024-08-12 20:56:47.300119 :: timer ++ 2
+2024-08-12 20:56:47.304124 :: One scroll - 1500
+2024-08-12 20:56:50.309901 :: One scroll - 1500
+2024-08-12 20:56:53.323211 :: One scroll - 1500
+2024-08-12 20:56:56.342131 :: One scroll - 1500
+2024-08-12 20:56:59.359971 :: One scroll - 1500
+2024-08-12 20:57:02.366821 :: One scroll - 1500
+2024-08-12 20:57:05.381449 :: One scroll - 1500
+2024-08-12 20:57:08.392063 :: One scroll - 1500
+2024-08-12 20:57:11.409643 :: One scroll - 1500
+2024-08-12 20:57:14.423549 :: One scroll - 1500
+2024-08-12 20:57:17.427630 :: timer ++ 3
+2024-08-12 20:57:17.430626 :: SPENT time forstone and tile - 0:01:06.099760

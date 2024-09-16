@@ -1,0 +1,18 @@
+
+2024-08-17 16:54:31.422737 :: Start
+2024-08-17 16:54:33.423695 :: PROCESS FOR - paint protection film STARTED
+2024-08-17 16:54:33.423695 :: https://www.google.ca/maps/@27.3460538,-82.4998157,12z?entry=ttu
+2024-08-17 16:54:40.286592 :: open site - https://www.google.ca/maps/@27.3460538,-82.4998157,12z?entry=ttu
+2024-08-17 16:54:42.494833 :: DATA for searching:
+LOCATION:27.3460538,-82.4998157,12z
+INTEREST:paint protection film
+CITY:Sarasota
+2024-08-17 16:54:43.481085 :: search  - paint protection film
+2024-08-17 16:54:43.484086 :: Insert key-word:paint protection film
+2024-08-17 16:54:45.973889 :: pressed search button
+2024-08-17 16:54:50.000891 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="373f016a-b9bf-4ee0-8b3d-f0cef7bfa72f", element="9b756f40-a699-499c-b894-b67c34ab035d")>
+2024-08-17 16:54:50.000891 :: SCROLLING STARTED
+2024-08-17 16:55:10.134367 :: timer ++ 2
+2024-08-17 16:55:40.296355 :: timer ++ 3
+2024-08-17 16:55:40.296355 :: SCROLLING DONE 
+2024-08-17 16:55:40.300358 :: SPENT time forpaint protection film - 0:01:06.876663

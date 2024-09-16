@@ -1,0 +1,18 @@
+
+2024-08-17 16:49:31.320427 :: Start
+2024-08-17 16:49:33.324009 :: PROCESS FOR - paint protection film STARTED
+2024-08-17 16:49:33.324990 :: https://www.google.ca/maps/@28.4332443,-81.4682186,10.75z?entry=ttu
+2024-08-17 16:49:40.150952 :: open site - https://www.google.ca/maps/@28.4332443,-81.4682186,10.75z?entry=ttu
+2024-08-17 16:49:42.347387 :: DATA for searching:
+LOCATION:28.4332443,-81.4682186,10.75z
+INTEREST:paint protection film
+CITY:Orlando
+2024-08-17 16:49:42.908557 :: search  - paint protection film
+2024-08-17 16:49:42.935560 :: Insert key-word:paint protection film
+2024-08-17 16:49:45.307949 :: pressed search button
+2024-08-17 16:49:49.339437 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="53c2974d-9f5a-4aeb-96ef-8f652a616915", element="dab3af45-0636-4c56-9abb-c643b107b7ff")>
+2024-08-17 16:49:49.339437 :: SCROLLING STARTED
+2024-08-17 16:50:09.444489 :: timer ++ 2
+2024-08-17 16:50:39.638741 :: timer ++ 3
+2024-08-17 16:50:39.638741 :: SCROLLING DONE 
+2024-08-17 16:50:39.645066 :: SPENT time forpaint protection film - 0:01:06.321057

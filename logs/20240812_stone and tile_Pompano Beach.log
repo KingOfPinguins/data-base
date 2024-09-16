@@ -1,0 +1,36 @@
+
+2024-08-12 20:57:49.263178 :: Start
+2024-08-12 20:57:51.271815 :: PROCESS FOR - stone and tile STARTED
+2024-08-12 20:57:51.272807 :: https://www.google.com/maps/@26.251814,-80.1783165,13z?entry=ttu
+2024-08-12 20:57:57.891301 :: open site - https://www.google.com/maps/@26.251814,-80.1783165,13z?entry=ttu
+2024-08-12 20:58:00.312646 :: DATA for searching:
+LOCATION:26.251814,-80.1783165,13z
+INTEREST:stone and tile
+CITY:Pompano Beach
+2024-08-12 20:58:00.886855 :: search  - stone and tile
+2024-08-12 20:58:00.886855 :: Insert key-word:stone and tile
+2024-08-12 20:58:03.141735 :: pressed search button
+2024-08-12 20:58:07.166779 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="b85178cd-6f0a-468e-b64f-5658285ad851", element="0c217c2e-cc89-4bb1-bbd9-54d7781cd4f8")>
+2024-08-12 20:58:07.171750 :: One scroll - 1500
+2024-08-12 20:58:09.180166 :: One scroll - 1500
+2024-08-12 20:58:11.193949 :: One scroll - 1500
+2024-08-12 20:58:13.205319 :: One scroll - 1500
+2024-08-12 20:58:15.220287 :: One scroll - 1500
+2024-08-12 20:58:17.239778 :: One scroll - 1500
+2024-08-12 20:58:19.244205 :: One scroll - 1500
+2024-08-12 20:58:21.263082 :: One scroll - 1500
+2024-08-12 20:58:23.268946 :: One scroll - 1500
+2024-08-12 20:58:25.285336 :: One scroll - 1500
+2024-08-12 20:58:27.297855 :: timer ++ 2
+2024-08-12 20:58:27.303895 :: One scroll - 1500
+2024-08-12 20:58:30.322564 :: One scroll - 1500
+2024-08-12 20:58:33.339412 :: One scroll - 1500
+2024-08-12 20:58:36.348767 :: One scroll - 1500
+2024-08-12 20:58:39.360240 :: One scroll - 1500
+2024-08-12 20:58:42.376746 :: One scroll - 1500
+2024-08-12 20:58:45.399319 :: One scroll - 1500
+2024-08-12 20:58:48.840775 :: One scroll - 1500
+2024-08-12 20:58:51.875450 :: One scroll - 1500
+2024-08-12 20:58:54.892976 :: One scroll - 1500
+2024-08-12 20:58:57.905477 :: timer ++ 3
+2024-08-12 20:58:57.909366 :: SPENT time forstone and tile - 0:01:06.637551

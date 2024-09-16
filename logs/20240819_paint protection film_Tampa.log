@@ -1,0 +1,18 @@
+
+2024-08-19 10:31:52.219055 :: Start
+2024-08-19 10:31:54.222006 :: PROCESS FOR - paint protection film STARTED
+2024-08-19 10:31:54.222006 :: https://www.google.ca/maps/@27.9720675,-82.5388135,11.5z?entry=ttu
+2024-08-19 10:32:12.215003 :: open site - https://www.google.ca/maps/@27.9720675,-82.5388135,11.5z?entry=ttu
+2024-08-19 10:32:14.284328 :: DATA for searching:
+LOCATION:27.9720675,-82.5388135,11.5z
+INTEREST:paint protection film
+CITY:Tampa
+2024-08-19 10:32:14.663637 :: search  - paint protection film
+2024-08-19 10:32:14.664635 :: Insert key-word:paint protection film
+2024-08-19 10:32:17.054864 :: pressed search button
+2024-08-19 10:32:21.069019 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="fcac1e43-8127-4bc3-b124-d4abce273106", element="f4107523-b7e1-4077-b0d5-088bdb697114")>
+2024-08-19 10:32:21.069019 :: SCROLLING STARTED
+2024-08-19 10:32:41.225317 :: timer ++ 2
+2024-08-19 10:33:11.340273 :: timer ++ 3
+2024-08-19 10:33:11.340273 :: SCROLLING DONE 
+2024-08-19 10:33:11.345273 :: SPENT time forpaint protection film - 0:01:17.123267

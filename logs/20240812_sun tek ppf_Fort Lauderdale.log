@@ -1,0 +1,36 @@
+
+2024-08-12 20:59:29.440259 :: Start
+2024-08-12 20:59:31.454301 :: PROCESS FOR - sun tek ppf STARTED
+2024-08-12 20:59:31.454301 :: https://www.google.com/maps/@26.1211208,-80.1324666,13z?entry=ttu
+2024-08-12 20:59:37.456283 :: open site - https://www.google.com/maps/@26.1211208,-80.1324666,13z?entry=ttu
+2024-08-12 20:59:40.308680 :: DATA for searching:
+LOCATION:26.1211208,-80.1324666,13z
+INTEREST:sun tek ppf
+CITY:Fort Lauderdale
+2024-08-12 20:59:40.541281 :: search  - sun tek ppf
+2024-08-12 20:59:40.542285 :: Insert key-word:sun tek ppf
+2024-08-12 20:59:42.802671 :: pressed search button
+2024-08-12 20:59:46.849458 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="69d54231-11dc-4a98-927b-e706e9b57503", element="613dbeae-fd74-4d5b-932d-cecc11ac1c62")>
+2024-08-12 20:59:46.853302 :: One scroll - 1500
+2024-08-12 20:59:48.872391 :: One scroll - 1500
+2024-08-12 20:59:50.888116 :: One scroll - 1500
+2024-08-12 20:59:52.896749 :: One scroll - 1500
+2024-08-12 20:59:54.910131 :: One scroll - 1500
+2024-08-12 20:59:56.918667 :: One scroll - 1500
+2024-08-12 20:59:58.929085 :: One scroll - 1500
+2024-08-12 21:00:00.937902 :: One scroll - 1500
+2024-08-12 21:00:02.942245 :: One scroll - 1500
+2024-08-12 21:00:04.955608 :: One scroll - 1500
+2024-08-12 21:00:06.968997 :: timer ++ 2
+2024-08-12 21:00:06.974999 :: One scroll - 1500
+2024-08-12 21:00:09.993229 :: One scroll - 1500
+2024-08-12 21:00:13.009820 :: One scroll - 1500
+2024-08-12 21:00:16.018758 :: One scroll - 1500
+2024-08-12 21:00:19.026975 :: One scroll - 1500
+2024-08-12 21:00:22.036905 :: One scroll - 1500
+2024-08-12 21:00:25.045212 :: One scroll - 1500
+2024-08-12 21:00:28.056512 :: One scroll - 1500
+2024-08-12 21:00:31.080098 :: One scroll - 1500
+2024-08-12 21:00:34.092698 :: One scroll - 1500
+2024-08-12 21:00:37.103497 :: timer ++ 3
+2024-08-12 21:00:37.107491 :: SPENT time forsun tek ppf - 0:01:05.653190

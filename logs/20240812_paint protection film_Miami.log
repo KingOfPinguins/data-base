@@ -1,0 +1,36 @@
+
+2024-08-12 21:03:39.665947 :: Start
+2024-08-12 21:03:41.680335 :: PROCESS FOR - paint protection film STARTED
+2024-08-12 21:03:41.680335 :: https://www.google.com/maps/@25.7825389,-80.3118592,12z?entry=ttu
+2024-08-12 21:03:47.999496 :: open site - https://www.google.com/maps/@25.7825389,-80.3118592,12z?entry=ttu
+2024-08-12 21:03:49.945545 :: DATA for searching:
+LOCATION:25.7825389,-80.3118592,12z
+INTEREST:paint protection film
+CITY:Miami
+2024-08-12 21:03:50.527048 :: search  - paint protection film
+2024-08-12 21:03:50.529367 :: Insert key-word:paint protection film
+2024-08-12 21:03:53.007205 :: pressed search button
+2024-08-12 21:03:57.031843 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="ccc50682-704f-4fd8-b928-22c554da5729", element="461d2b3b-edf2-4870-9528-54da38e51007")>
+2024-08-12 21:03:57.035842 :: One scroll - 1500
+2024-08-12 21:03:59.054246 :: One scroll - 1500
+2024-08-12 21:04:01.061797 :: One scroll - 1500
+2024-08-12 21:04:03.081318 :: One scroll - 1500
+2024-08-12 21:04:05.085381 :: One scroll - 1500
+2024-08-12 21:04:07.101185 :: One scroll - 1500
+2024-08-12 21:04:09.114028 :: One scroll - 1500
+2024-08-12 21:04:11.129220 :: One scroll - 1500
+2024-08-12 21:04:13.144458 :: One scroll - 1500
+2024-08-12 21:04:15.155021 :: One scroll - 1500
+2024-08-12 21:04:17.158044 :: timer ++ 2
+2024-08-12 21:04:17.370682 :: One scroll - 1500
+2024-08-12 21:04:20.386026 :: One scroll - 1500
+2024-08-12 21:04:23.403001 :: One scroll - 1500
+2024-08-12 21:04:26.427321 :: One scroll - 1500
+2024-08-12 21:04:29.443114 :: One scroll - 1500
+2024-08-12 21:04:32.451274 :: One scroll - 1500
+2024-08-12 21:04:35.470094 :: One scroll - 1500
+2024-08-12 21:04:38.489058 :: One scroll - 1500
+2024-08-12 21:04:41.501978 :: One scroll - 1500
+2024-08-12 21:04:44.511282 :: One scroll - 1500
+2024-08-12 21:04:47.523495 :: timer ++ 3
+2024-08-12 21:04:47.531495 :: SPENT time forpaint protection film - 0:01:05.851160

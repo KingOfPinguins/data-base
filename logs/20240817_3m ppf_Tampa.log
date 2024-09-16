@@ -1,0 +1,18 @@
+
+2024-08-17 16:51:31.442466 :: Start
+2024-08-17 16:51:33.444460 :: PROCESS FOR - 3m ppf STARTED
+2024-08-17 16:51:33.444460 :: https://www.google.ca/maps/@27.9720675,-82.5388135,11.5z?entry=ttu
+2024-08-17 16:51:40.230274 :: open site - https://www.google.ca/maps/@27.9720675,-82.5388135,11.5z?entry=ttu
+2024-08-17 16:51:42.316189 :: DATA for searching:
+LOCATION:27.9720675,-82.5388135,11.5z
+INTEREST:3m ppf
+CITY:Tampa
+2024-08-17 16:51:42.631764 :: search  - 3m ppf
+2024-08-17 16:51:42.734291 :: Insert key-word:3m ppf
+2024-08-17 16:51:45.057102 :: pressed search button
+2024-08-17 16:51:49.082788 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="bcf1e499-2493-4ad2-b573-3fa3e38686a8", element="800ad1df-486b-49b3-8b55-43048e89fc5b")>
+2024-08-17 16:51:49.082788 :: SCROLLING STARTED
+2024-08-17 16:52:09.239290 :: timer ++ 2
+2024-08-17 16:52:39.374897 :: timer ++ 3
+2024-08-17 16:52:39.375896 :: SCROLLING DONE 
+2024-08-17 16:52:39.382895 :: SPENT time for3m ppf - 0:01:05.938435

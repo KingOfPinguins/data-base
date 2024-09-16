@@ -1,0 +1,18 @@
+
+2024-08-19 10:33:52.278027 :: Start
+2024-08-19 10:33:54.289274 :: PROCESS FOR - kitchen countertop STARTED
+2024-08-19 10:33:54.289780 :: https://www.google.ca/maps/@27.3460538,-82.4998157,12z?entry=ttu
+2024-08-19 10:34:11.800220 :: open site - https://www.google.ca/maps/@27.3460538,-82.4998157,12z?entry=ttu
+2024-08-19 10:34:15.507066 :: DATA for searching:
+LOCATION:27.3460538,-82.4998157,12z
+INTEREST:kitchen countertop
+CITY:Sarasota
+2024-08-19 10:34:15.645596 :: search  - kitchen countertop
+2024-08-19 10:34:15.645596 :: Insert key-word:kitchen countertop
+2024-08-19 10:34:17.928801 :: pressed search button
+2024-08-19 10:34:21.953759 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="b99f12e1-8d8f-4641-b468-79a35a1b5d81", element="de7bf13a-5fde-42af-b638-974407d5bfcc")>
+2024-08-19 10:34:21.953759 :: SCROLLING STARTED
+2024-08-19 10:34:42.103703 :: timer ++ 2
+2024-08-19 10:35:12.214283 :: timer ++ 3
+2024-08-19 10:35:12.214283 :: SCROLLING DONE 
+2024-08-19 10:35:12.218258 :: SPENT time forkitchen countertop - 0:01:17.928984

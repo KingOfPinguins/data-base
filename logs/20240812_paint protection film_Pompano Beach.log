@@ -1,0 +1,36 @@
+
+2024-08-12 20:57:49.263178 :: Start
+2024-08-12 20:57:51.271815 :: PROCESS FOR - paint protection film STARTED
+2024-08-12 20:57:51.272807 :: https://www.google.com/maps/@26.251814,-80.1783165,13z?entry=ttu
+2024-08-12 20:57:57.742303 :: open site - https://www.google.com/maps/@26.251814,-80.1783165,13z?entry=ttu
+2024-08-12 20:57:59.515136 :: DATA for searching:
+LOCATION:26.251814,-80.1783165,13z
+INTEREST:paint protection film
+CITY:Pompano Beach
+2024-08-12 20:57:59.933826 :: search  - paint protection film
+2024-08-12 20:57:59.933826 :: Insert key-word:paint protection film
+2024-08-12 20:58:02.283273 :: pressed search button
+2024-08-12 20:58:06.297912 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="18375c6b-17a9-43ff-8559-449fe92bf138", element="690c63c9-7ad8-4fa6-949b-1fea4d1bbd3a")>
+2024-08-12 20:58:06.301912 :: One scroll - 1500
+2024-08-12 20:58:08.312329 :: One scroll - 1500
+2024-08-12 20:58:10.325299 :: One scroll - 1500
+2024-08-12 20:58:12.339067 :: One scroll - 1500
+2024-08-12 20:58:14.379243 :: One scroll - 1500
+2024-08-12 20:58:16.391299 :: One scroll - 1500
+2024-08-12 20:58:18.527859 :: One scroll - 1500
+2024-08-12 20:58:20.543586 :: One scroll - 1500
+2024-08-12 20:58:22.550202 :: One scroll - 1500
+2024-08-12 20:58:24.559076 :: One scroll - 1500
+2024-08-12 20:58:26.570287 :: timer ++ 2
+2024-08-12 20:58:26.745399 :: One scroll - 1500
+2024-08-12 20:58:29.765707 :: One scroll - 1500
+2024-08-12 20:58:32.779253 :: One scroll - 1500
+2024-08-12 20:58:35.789377 :: One scroll - 1500
+2024-08-12 20:58:38.796520 :: One scroll - 1500
+2024-08-12 20:58:41.800158 :: One scroll - 1500
+2024-08-12 20:58:44.806420 :: One scroll - 1500
+2024-08-12 20:58:47.822418 :: One scroll - 1500
+2024-08-12 20:58:50.877743 :: One scroll - 1500
+2024-08-12 20:58:53.906412 :: One scroll - 1500
+2024-08-12 20:58:56.916718 :: timer ++ 3
+2024-08-12 20:58:56.920719 :: SPENT time forpaint protection film - 0:01:05.647912

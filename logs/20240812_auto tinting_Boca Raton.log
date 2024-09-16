@@ -1,0 +1,36 @@
+
+2024-08-12 20:54:29.090040 :: Start
+2024-08-12 20:54:31.092212 :: PROCESS FOR - auto tinting STARTED
+2024-08-12 20:54:31.093087 :: https://www.google.com/maps/@26.3729004,-80.158565,13z?entry=ttu
+2024-08-12 20:54:37.207299 :: open site - https://www.google.com/maps/@26.3729004,-80.158565,13z?entry=ttu
+2024-08-12 20:54:39.573075 :: DATA for searching:
+LOCATION:26.3729004,-80.158565,13z
+INTEREST:auto tinting
+CITY:Boca Raton
+2024-08-12 20:54:40.017864 :: search  - auto tinting
+2024-08-12 20:54:40.019897 :: Insert key-word:auto tinting
+2024-08-12 20:54:42.400406 :: pressed search button
+2024-08-12 20:54:46.422387 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="f1edad2b-aae6-4f16-a137-6192bd8a1316", element="43c6825e-9f0b-4607-82d2-145c8c9e24f2")>
+2024-08-12 20:54:46.427386 :: One scroll - 1500
+2024-08-12 20:54:48.437027 :: One scroll - 1500
+2024-08-12 20:54:50.479953 :: One scroll - 1500
+2024-08-12 20:54:52.490270 :: One scroll - 1500
+2024-08-12 20:54:54.498893 :: One scroll - 1500
+2024-08-12 20:54:56.505459 :: One scroll - 1500
+2024-08-12 20:54:58.522003 :: One scroll - 1500
+2024-08-12 20:55:00.591009 :: One scroll - 1500
+2024-08-12 20:55:02.600726 :: One scroll - 1500
+2024-08-12 20:55:04.612834 :: One scroll - 1500
+2024-08-12 20:55:06.619825 :: timer ++ 2
+2024-08-12 20:55:06.638828 :: One scroll - 1500
+2024-08-12 20:55:09.648745 :: One scroll - 1500
+2024-08-12 20:55:12.666285 :: One scroll - 1500
+2024-08-12 20:55:15.677012 :: One scroll - 1500
+2024-08-12 20:55:18.697119 :: One scroll - 1500
+2024-08-12 20:55:21.714385 :: One scroll - 1500
+2024-08-12 20:55:24.732777 :: One scroll - 1500
+2024-08-12 20:55:27.761783 :: One scroll - 1500
+2024-08-12 20:55:30.943722 :: One scroll - 1500
+2024-08-12 20:55:33.960657 :: One scroll - 1500
+2024-08-12 20:55:36.969485 :: timer ++ 3
+2024-08-12 20:55:36.975485 :: SPENT time forauto tinting - 0:01:05.883273

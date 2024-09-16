@@ -1,0 +1,15 @@
+
+2023-12-17 14:34:28.527585 :: Start
+2023-12-17 14:34:30.530999 :: PROCESS FOR -auto tintingSTARTED
+2023-12-17 14:34:30.530999 :: https://www.google.com/maps/@43.7182639,-79.7076911,10z?entry=ttu
+2023-12-17 14:34:36.262710 :: DATA for searching:
+LOCATION:43.7182639,-79.7076911,10z
+INTEREST:auto tinting
+CITY:Toronto
+2023-12-17 14:34:36.316510 :: Insert key-word:auto tinting
+2023-12-17 14:34:42.551761 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="ca29db5b-d5a3-4a6a-bc13-9db2a6e85c62", element="09d66396-c941-4276-822e-a96081443fc9")>
+2023-12-17 14:34:42.555669 :: One scroll - 1500
+2023-12-17 14:34:44.568665 :: One scroll - 1500
+2023-12-17 14:34:46.569997 :: One scroll - 1500
+2023-12-17 14:34:48.583321 :: One scroll - 1500
+2023-12-17 14:34:50.589971 :: One scroll - 1500

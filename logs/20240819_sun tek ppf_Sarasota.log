@@ -1,0 +1,18 @@
+
+2024-08-19 10:33:52.277024 :: Start
+2024-08-19 10:33:54.289274 :: PROCESS FOR - sun tek ppf STARTED
+2024-08-19 10:33:54.289274 :: https://www.google.ca/maps/@27.3460538,-82.4998157,12z?entry=ttu
+2024-08-19 10:34:11.813220 :: open site - https://www.google.ca/maps/@27.3460538,-82.4998157,12z?entry=ttu
+2024-08-19 10:34:15.624598 :: DATA for searching:
+LOCATION:27.3460538,-82.4998157,12z
+INTEREST:sun tek ppf
+CITY:Sarasota
+2024-08-19 10:34:15.728129 :: search  - sun tek ppf
+2024-08-19 10:34:15.728129 :: Insert key-word:sun tek ppf
+2024-08-19 10:34:18.018328 :: pressed search button
+2024-08-19 10:34:22.046296 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="ac57a4a4-5df9-4cc1-a6c6-8e93efd69cb4", element="46507871-c030-424f-acf1-44110a344866")>
+2024-08-19 10:34:22.046296 :: SCROLLING STARTED
+2024-08-19 10:34:42.167235 :: timer ++ 2
+2024-08-19 10:35:12.277771 :: timer ++ 3
+2024-08-19 10:35:12.277771 :: SCROLLING DONE 
+2024-08-19 10:35:12.280774 :: SPENT time forsun tek ppf - 0:01:17.991500

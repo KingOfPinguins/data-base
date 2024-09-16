@@ -1,0 +1,18 @@
+
+2024-08-17 16:53:31.495037 :: Start
+2024-08-17 16:53:33.502173 :: PROCESS FOR - 3m ppf STARTED
+2024-08-17 16:53:33.502173 :: https://www.google.ca/maps/@27.3460538,-82.4998157,12z?entry=ttu
+2024-08-17 16:53:40.536601 :: open site - https://www.google.ca/maps/@27.3460538,-82.4998157,12z?entry=ttu
+2024-08-17 16:53:42.778656 :: DATA for searching:
+LOCATION:27.3460538,-82.4998157,12z
+INTEREST:3m ppf
+CITY:Sarasota
+2024-08-17 16:53:43.371272 :: search  - 3m ppf
+2024-08-17 16:53:43.437867 :: Insert key-word:3m ppf
+2024-08-17 16:53:45.767108 :: pressed search button
+2024-08-17 16:53:49.783120 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="737c796b-403e-4f03-a35a-1b490137d4d3", element="2e90ea5f-c922-4360-929d-ec8b1466ca6d")>
+2024-08-17 16:53:49.783120 :: SCROLLING STARTED
+2024-08-17 16:54:09.923758 :: timer ++ 2
+2024-08-17 16:54:40.058481 :: timer ++ 3
+2024-08-17 16:54:40.060481 :: SCROLLING DONE 
+2024-08-17 16:54:40.066480 :: SPENT time for3m ppf - 0:01:06.564307

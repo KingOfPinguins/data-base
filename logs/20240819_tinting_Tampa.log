@@ -1,0 +1,18 @@
+
+2024-08-19 10:31:52.219055 :: Start
+2024-08-19 10:31:54.222006 :: PROCESS FOR - tinting STARTED
+2024-08-19 10:31:54.222006 :: https://www.google.ca/maps/@27.9720675,-82.5388135,11.5z?entry=ttu
+2024-08-19 10:32:12.039522 :: open site - https://www.google.ca/maps/@27.9720675,-82.5388135,11.5z?entry=ttu
+2024-08-19 10:32:14.133800 :: DATA for searching:
+LOCATION:27.9720675,-82.5388135,11.5z
+INTEREST:tinting
+CITY:Tampa
+2024-08-19 10:32:14.432394 :: search  - tinting
+2024-08-19 10:32:14.435394 :: Insert key-word:tinting
+2024-08-19 10:32:16.749269 :: pressed search button
+2024-08-19 10:32:20.757431 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="758bdc52-e660-4da5-abe4-1dde65ac99db", element="cded2c25-7548-4391-91d1-30d6d75a8fa6")>
+2024-08-19 10:32:20.757431 :: SCROLLING STARTED
+2024-08-19 10:32:40.855131 :: timer ++ 2
+2024-08-19 10:33:11.112554 :: timer ++ 3
+2024-08-19 10:33:11.114554 :: SCROLLING DONE 
+2024-08-19 10:33:11.120553 :: SPENT time fortinting - 0:01:16.898547

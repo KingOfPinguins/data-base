@@ -1,0 +1,18 @@
+
+2024-08-19 10:27:52.056526 :: Start
+2024-08-19 10:27:54.067388 :: PROCESS FOR - auto tinting STARTED
+2024-08-19 10:27:54.067388 :: https://www.google.ca/maps/@28.4332443,-81.4682186,10.75z?entry=ttu
+2024-08-19 10:28:13.930568 :: open site - https://www.google.ca/maps/@28.4332443,-81.4682186,10.75z?entry=ttu
+2024-08-19 10:28:15.969538 :: DATA for searching:
+LOCATION:28.4332443,-81.4682186,10.75z
+INTEREST:auto tinting
+CITY:Orlando
+2024-08-19 10:28:16.146947 :: search  - auto tinting
+2024-08-19 10:28:16.146947 :: Insert key-word:auto tinting
+2024-08-19 10:28:18.420511 :: pressed search button
+2024-08-19 10:28:22.436976 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="793862bc-6a7a-4cdf-9432-bafde1ef1cde", element="b22d04be-49e5-4347-9bad-4958af8789e8")>
+2024-08-19 10:28:22.436976 :: SCROLLING STARTED
+2024-08-19 10:28:42.535247 :: timer ++ 2
+2024-08-19 10:29:12.676728 :: timer ++ 3
+2024-08-19 10:29:12.683252 :: SCROLLING DONE 
+2024-08-19 10:29:12.694253 :: SPENT time forauto tinting - 0:01:18.625867

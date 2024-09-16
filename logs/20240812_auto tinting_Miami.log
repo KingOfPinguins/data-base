@@ -1,0 +1,36 @@
+
+2024-08-12 21:02:49.396129 :: Start
+2024-08-12 21:02:51.404164 :: PROCESS FOR - auto tinting STARTED
+2024-08-12 21:02:51.404164 :: https://www.google.com/maps/@25.7825389,-80.3118592,12z?entry=ttu
+2024-08-12 21:02:57.653028 :: open site - https://www.google.com/maps/@25.7825389,-80.3118592,12z?entry=ttu
+2024-08-12 21:02:59.671490 :: DATA for searching:
+LOCATION:25.7825389,-80.3118592,12z
+INTEREST:auto tinting
+CITY:Miami
+2024-08-12 21:03:00.334302 :: search  - auto tinting
+2024-08-12 21:03:00.338632 :: Insert key-word:auto tinting
+2024-08-12 21:03:02.643355 :: pressed search button
+2024-08-12 21:03:06.655502 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="a71b3536-6619-4fa5-85ee-661f6571582a", element="87ef42d6-85c3-4fd0-a6a0-10e1a86cece6")>
+2024-08-12 21:03:06.662497 :: One scroll - 1500
+2024-08-12 21:03:08.681419 :: One scroll - 1500
+2024-08-12 21:03:10.697631 :: One scroll - 1500
+2024-08-12 21:03:12.707276 :: One scroll - 1500
+2024-08-12 21:03:14.719390 :: One scroll - 1500
+2024-08-12 21:03:16.733263 :: One scroll - 1500
+2024-08-12 21:03:18.741371 :: One scroll - 1500
+2024-08-12 21:03:20.745609 :: One scroll - 1500
+2024-08-12 21:03:22.758274 :: One scroll - 1500
+2024-08-12 21:03:24.766332 :: One scroll - 1500
+2024-08-12 21:03:26.779564 :: timer ++ 2
+2024-08-12 21:03:26.788576 :: One scroll - 1500
+2024-08-12 21:03:29.799217 :: One scroll - 1500
+2024-08-12 21:03:32.816767 :: One scroll - 1500
+2024-08-12 21:03:35.822620 :: One scroll - 1500
+2024-08-12 21:03:38.837302 :: One scroll - 1500
+2024-08-12 21:03:41.841463 :: One scroll - 1500
+2024-08-12 21:03:44.849346 :: One scroll - 1500
+2024-08-12 21:03:47.869346 :: One scroll - 1500
+2024-08-12 21:03:50.888555 :: One scroll - 1500
+2024-08-12 21:03:53.902798 :: One scroll - 1500
+2024-08-12 21:03:56.904725 :: timer ++ 3
+2024-08-12 21:03:56.907687 :: SPENT time forauto tinting - 0:01:05.503523

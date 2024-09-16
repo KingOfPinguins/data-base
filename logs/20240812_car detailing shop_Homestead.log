@@ -1,0 +1,36 @@
+
+2024-08-12 21:05:19.665779 :: Start
+2024-08-12 21:05:21.680021 :: PROCESS FOR - car detailing shop STARTED
+2024-08-12 21:05:21.680021 :: https://www.google.com/maps/@25.4698105,-80.4734476,14z?entry=ttu
+2024-08-12 21:05:27.857820 :: open site - https://www.google.com/maps/@25.4698105,-80.4734476,14z?entry=ttu
+2024-08-12 21:05:30.209887 :: DATA for searching:
+LOCATION:25.4698105,-80.4734476,14z
+INTEREST:car detailing shop
+CITY:Homestead
+2024-08-12 21:05:30.538716 :: search  - car detailing shop
+2024-08-12 21:05:30.548712 :: Insert key-word:car detailing shop
+2024-08-12 21:05:32.839536 :: pressed search button
+2024-08-12 21:05:36.857402 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="dbd63d5f-5aff-40a9-bef2-f308c9694c63", element="2f81eb34-e1d6-4717-9352-22f7d8d5a2b5")>
+2024-08-12 21:05:36.864401 :: One scroll - 1500
+2024-08-12 21:05:38.871031 :: One scroll - 1500
+2024-08-12 21:05:40.877450 :: One scroll - 1500
+2024-08-12 21:05:42.883458 :: One scroll - 1500
+2024-08-12 21:05:44.897679 :: One scroll - 1500
+2024-08-12 21:05:46.914976 :: One scroll - 1500
+2024-08-12 21:05:48.925664 :: One scroll - 1500
+2024-08-12 21:05:50.938995 :: One scroll - 1500
+2024-08-12 21:05:52.950625 :: One scroll - 1500
+2024-08-12 21:05:54.956959 :: One scroll - 1500
+2024-08-12 21:05:56.958121 :: timer ++ 2
+2024-08-12 21:05:56.965122 :: One scroll - 1500
+2024-08-12 21:05:59.970502 :: One scroll - 1500
+2024-08-12 21:06:02.985062 :: One scroll - 1500
+2024-08-12 21:06:06.004392 :: One scroll - 1500
+2024-08-12 21:06:09.018091 :: One scroll - 1500
+2024-08-12 21:06:12.034717 :: One scroll - 1500
+2024-08-12 21:06:15.055370 :: One scroll - 1500
+2024-08-12 21:06:18.118307 :: One scroll - 1500
+2024-08-12 21:06:21.135331 :: One scroll - 1500
+2024-08-12 21:06:24.155841 :: One scroll - 1500
+2024-08-12 21:06:27.168169 :: timer ++ 3
+2024-08-12 21:06:27.175167 :: SPENT time forcar detailing shop - 0:01:05.495146

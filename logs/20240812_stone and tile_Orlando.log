@@ -1,0 +1,36 @@
+
+2024-08-12 20:53:39.038681 :: Start
+2024-08-12 20:53:41.052452 :: PROCESS FOR - stone and tile STARTED
+2024-08-12 20:53:41.052452 :: https://www.google.com/maps/@28.4332443,-81.4682186,10.75z?entry=ttu
+2024-08-12 20:53:46.786783 :: open site - https://www.google.com/maps/@28.4332443,-81.4682186,10.75z?entry=ttu
+2024-08-12 20:53:48.297744 :: DATA for searching:
+LOCATION:28.4332443,-81.4682186,10.75z
+INTEREST:stone and tile
+CITY:Orlando
+2024-08-12 20:53:48.423278 :: search  - stone and tile
+2024-08-12 20:53:48.423278 :: Insert key-word:stone and tile
+2024-08-12 20:53:50.679804 :: pressed search button
+2024-08-12 20:53:54.708946 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="6784894d-ae07-4282-955e-88e82635f3e1", element="237ecfb0-dc87-4226-9df8-eb13d15f9432")>
+2024-08-12 20:53:54.714940 :: One scroll - 1500
+2024-08-12 20:53:56.730838 :: One scroll - 1500
+2024-08-12 20:53:58.742539 :: One scroll - 1500
+2024-08-12 20:54:00.758311 :: One scroll - 1500
+2024-08-12 20:54:02.772473 :: One scroll - 1500
+2024-08-12 20:54:04.789431 :: One scroll - 1500
+2024-08-12 20:54:06.795686 :: One scroll - 1500
+2024-08-12 20:54:08.799534 :: One scroll - 1500
+2024-08-12 20:54:10.805249 :: One scroll - 1500
+2024-08-12 20:54:12.824524 :: One scroll - 1500
+2024-08-12 20:54:14.838648 :: timer ++ 2
+2024-08-12 20:54:14.844647 :: One scroll - 1500
+2024-08-12 20:54:17.863429 :: One scroll - 1500
+2024-08-12 20:54:20.879734 :: One scroll - 1500
+2024-08-12 20:54:23.888606 :: One scroll - 1500
+2024-08-12 20:54:26.894212 :: One scroll - 1500
+2024-08-12 20:54:29.904621 :: One scroll - 1500
+2024-08-12 20:54:32.972811 :: One scroll - 1500
+2024-08-12 20:54:35.978773 :: One scroll - 1500
+2024-08-12 20:54:39.022083 :: One scroll - 1500
+2024-08-12 20:54:42.036171 :: One scroll - 1500
+2024-08-12 20:54:45.045007 :: timer ++ 3
+2024-08-12 20:54:45.049976 :: SPENT time forstone and tile - 0:01:03.997524

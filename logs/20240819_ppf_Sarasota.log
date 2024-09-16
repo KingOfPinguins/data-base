@@ -1,0 +1,18 @@
+
+2024-08-19 10:31:52.219055 :: Start
+2024-08-19 10:31:54.223013 :: PROCESS FOR - ppf STARTED
+2024-08-19 10:31:54.223013 :: https://www.google.ca/maps/@27.3460538,-82.4998157,12z?entry=ttu
+2024-08-19 10:32:11.787188 :: open site - https://www.google.ca/maps/@27.3460538,-82.4998157,12z?entry=ttu
+2024-08-19 10:32:14.864944 :: DATA for searching:
+LOCATION:27.3460538,-82.4998157,12z
+INTEREST:ppf
+CITY:Sarasota
+2024-08-19 10:32:15.425468 :: search  - ppf
+2024-08-19 10:32:15.426470 :: Insert key-word:ppf
+2024-08-19 10:32:17.742500 :: pressed search button
+2024-08-19 10:32:21.765896 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="91685cee-27b7-4ca5-bfd7-a9f33e87dbf9", element="932b9604-9a79-4153-86b5-b557f0ba1452")>
+2024-08-19 10:32:21.765896 :: SCROLLING STARTED
+2024-08-19 10:32:41.935233 :: timer ++ 2
+2024-08-19 10:33:12.065963 :: timer ++ 3
+2024-08-19 10:33:12.066963 :: SCROLLING DONE 
+2024-08-19 10:33:12.072964 :: SPENT time forppf - 0:01:17.848952

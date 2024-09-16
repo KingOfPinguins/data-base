@@ -1,0 +1,18 @@
+
+2024-08-17 16:53:31.496036 :: Start
+2024-08-17 16:53:33.502173 :: PROCESS FOR - auto tinting STARTED
+2024-08-17 16:53:33.502173 :: https://www.google.ca/maps/@27.3460538,-82.4998157,12z?entry=ttu
+2024-08-17 16:53:40.965246 :: open site - https://www.google.ca/maps/@27.3460538,-82.4998157,12z?entry=ttu
+2024-08-17 16:53:43.501437 :: DATA for searching:
+LOCATION:27.3460538,-82.4998157,12z
+INTEREST:auto tinting
+CITY:Sarasota
+2024-08-17 16:53:43.946762 :: search  - auto tinting
+2024-08-17 16:53:43.958773 :: Insert key-word:auto tinting
+2024-08-17 16:53:46.302759 :: pressed search button
+2024-08-17 16:53:50.336270 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="f102be6b-d4e1-439d-a317-8d56cb1a50d6", element="f1de1962-8b39-41d3-9a1f-152799531d5c")>
+2024-08-17 16:53:50.336270 :: SCROLLING STARTED
+2024-08-17 16:54:10.609907 :: timer ++ 2
+2024-08-17 16:54:40.893602 :: timer ++ 3
+2024-08-17 16:54:40.895852 :: SCROLLING DONE 
+2024-08-17 16:54:40.901946 :: SPENT time forauto tinting - 0:01:07.399083

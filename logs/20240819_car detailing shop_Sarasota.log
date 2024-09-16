@@ -1,0 +1,18 @@
+
+2024-08-19 10:32:52.251552 :: Start
+2024-08-19 10:32:54.257311 :: PROCESS FOR - car detailing shop STARTED
+2024-08-19 10:32:54.257311 :: https://www.google.ca/maps/@27.3460538,-82.4998157,12z?entry=ttu
+2024-08-19 10:33:13.030089 :: open site - https://www.google.ca/maps/@27.3460538,-82.4998157,12z?entry=ttu
+2024-08-19 10:33:14.957760 :: DATA for searching:
+LOCATION:27.3460538,-82.4998157,12z
+INTEREST:car detailing shop
+CITY:Sarasota
+2024-08-19 10:33:15.741336 :: search  - car detailing shop
+2024-08-19 10:33:15.758859 :: Insert key-word:car detailing shop
+2024-08-19 10:33:18.060355 :: pressed search button
+2024-08-19 10:33:22.076620 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="831780a0-a707-4050-91f6-1f2c613890f5", element="21fbfe69-92af-4b0e-84d2-e3662428caa6")>
+2024-08-19 10:33:22.076620 :: SCROLLING STARTED
+2024-08-19 10:33:42.274474 :: timer ++ 2
+2024-08-19 10:34:12.436696 :: timer ++ 3
+2024-08-19 10:34:12.436696 :: SCROLLING DONE 
+2024-08-19 10:34:12.457531 :: SPENT time forcar detailing shop - 0:01:18.199220

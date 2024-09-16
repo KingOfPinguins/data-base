@@ -1,0 +1,18 @@
+
+2024-08-19 10:29:52.171243 :: Start
+2024-08-19 10:29:54.176196 :: PROCESS FOR - auto tinting STARTED
+2024-08-19 10:29:54.176196 :: https://www.google.ca/maps/@27.9720675,-82.5388135,11.5z?entry=ttu
+2024-08-19 10:30:11.238692 :: open site - https://www.google.ca/maps/@27.9720675,-82.5388135,11.5z?entry=ttu
+2024-08-19 10:30:13.084113 :: DATA for searching:
+LOCATION:27.9720675,-82.5388135,11.5z
+INTEREST:auto tinting
+CITY:Tampa
+2024-08-19 10:30:13.953204 :: search  - auto tinting
+2024-08-19 10:30:13.966992 :: Insert key-word:auto tinting
+2024-08-19 10:30:16.233793 :: pressed search button
+2024-08-19 10:30:20.258972 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="38125c3e-04fa-4c30-9319-9e682788654c", element="3d65b147-73bb-4de5-ad6b-37354382326f")>
+2024-08-19 10:30:20.258972 :: SCROLLING STARTED
+2024-08-19 10:30:40.400486 :: timer ++ 2
+2024-08-19 10:31:10.513178 :: timer ++ 3
+2024-08-19 10:31:10.514178 :: SCROLLING DONE 
+2024-08-19 10:31:10.526178 :: SPENT time forauto tinting - 0:01:16.346983

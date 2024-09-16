@@ -1,0 +1,18 @@
+
+2024-08-19 10:30:52.207288 :: Start
+2024-08-19 10:30:54.218349 :: PROCESS FOR - kitchen countertop STARTED
+2024-08-19 10:30:54.219349 :: https://www.google.ca/maps/@27.9720675,-82.5388135,11.5z?entry=ttu
+2024-08-19 10:31:13.996677 :: open site - https://www.google.ca/maps/@27.9720675,-82.5388135,11.5z?entry=ttu
+2024-08-19 10:31:16.651504 :: DATA for searching:
+LOCATION:27.9720675,-82.5388135,11.5z
+INTEREST:kitchen countertop
+CITY:Tampa
+2024-08-19 10:31:17.340615 :: search  - kitchen countertop
+2024-08-19 10:31:17.342134 :: Insert key-word:kitchen countertop
+2024-08-19 10:31:19.680864 :: pressed search button
+2024-08-19 10:31:23.707812 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="07fbb5a3-3f45-4e5c-ba04-d90f9264f2c3", element="188f1b84-ef5f-4f3e-9048-c1a5c6d97bd3")>
+2024-08-19 10:31:23.707812 :: SCROLLING STARTED
+2024-08-19 10:31:43.950214 :: timer ++ 2
+2024-08-19 10:32:14.310864 :: timer ++ 3
+2024-08-19 10:32:14.311865 :: SCROLLING DONE 
+2024-08-19 10:32:14.324864 :: SPENT time forkitchen countertop - 0:01:20.100514

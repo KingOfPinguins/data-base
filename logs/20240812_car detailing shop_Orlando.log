@@ -1,0 +1,36 @@
+
+2024-08-12 20:52:48.919185 :: Start
+2024-08-12 20:52:50.921261 :: PROCESS FOR - car detailing shop STARTED
+2024-08-12 20:52:50.921261 :: https://www.google.com/maps/@28.4332443,-81.4682186,10.75z?entry=ttu
+2024-08-12 20:52:56.849874 :: open site - https://www.google.com/maps/@28.4332443,-81.4682186,10.75z?entry=ttu
+2024-08-12 20:52:58.811900 :: DATA for searching:
+LOCATION:28.4332443,-81.4682186,10.75z
+INTEREST:car detailing shop
+CITY:Orlando
+2024-08-12 20:52:58.965620 :: search  - car detailing shop
+2024-08-12 20:52:58.966130 :: Insert key-word:car detailing shop
+2024-08-12 20:53:01.212714 :: pressed search button
+2024-08-12 20:53:05.235512 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="f13963b5-d176-4d2e-9587-1c48b4af7454", element="77958dbd-17a2-42c7-96a4-2e8febbc4074")>
+2024-08-12 20:53:05.239532 :: One scroll - 1500
+2024-08-12 20:53:07.257942 :: One scroll - 1500
+2024-08-12 20:53:09.265221 :: One scroll - 1500
+2024-08-12 20:53:11.283012 :: One scroll - 1500
+2024-08-12 20:53:13.295829 :: One scroll - 1500
+2024-08-12 20:53:15.310468 :: One scroll - 1500
+2024-08-12 20:53:17.320732 :: One scroll - 1500
+2024-08-12 20:53:19.331499 :: One scroll - 1500
+2024-08-12 20:53:21.350272 :: One scroll - 1500
+2024-08-12 20:53:23.356846 :: One scroll - 1500
+2024-08-12 20:53:25.367465 :: timer ++ 2
+2024-08-12 20:53:25.386529 :: One scroll - 1500
+2024-08-12 20:53:28.391220 :: One scroll - 1500
+2024-08-12 20:53:31.407160 :: One scroll - 1500
+2024-08-12 20:53:34.415725 :: One scroll - 1500
+2024-08-12 20:53:37.429455 :: One scroll - 1500
+2024-08-12 20:53:40.437673 :: One scroll - 1500
+2024-08-12 20:53:43.443393 :: One scroll - 1500
+2024-08-12 20:53:46.456253 :: One scroll - 1500
+2024-08-12 20:53:49.760873 :: One scroll - 1500
+2024-08-12 20:53:52.774446 :: One scroll - 1500
+2024-08-12 20:53:55.793735 :: timer ++ 3
+2024-08-12 20:53:55.799698 :: SPENT time forcar detailing shop - 0:01:04.878437

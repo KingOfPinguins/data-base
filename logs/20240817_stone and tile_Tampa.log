@@ -1,0 +1,18 @@
+
+2024-08-17 16:52:31.376392 :: Start
+2024-08-17 16:52:33.389353 :: PROCESS FOR - stone and tile STARTED
+2024-08-17 16:52:33.390330 :: https://www.google.ca/maps/@27.9720675,-82.5388135,11.5z?entry=ttu
+2024-08-17 16:52:40.532254 :: open site - https://www.google.ca/maps/@27.9720675,-82.5388135,11.5z?entry=ttu
+2024-08-17 16:52:43.491515 :: DATA for searching:
+LOCATION:27.9720675,-82.5388135,11.5z
+INTEREST:stone and tile
+CITY:Tampa
+2024-08-17 16:52:43.933212 :: search  - stone and tile
+2024-08-17 16:52:43.935728 :: Insert key-word:stone and tile
+2024-08-17 16:52:46.350396 :: pressed search button
+2024-08-17 16:52:50.386068 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="350ebec5-16cf-4bfd-a719-023f42f8b05c", element="c8ee8048-2c29-4bef-bc29-ad8355b82370")>
+2024-08-17 16:52:50.386068 :: SCROLLING STARTED
+2024-08-17 16:53:10.505022 :: timer ++ 2
+2024-08-17 16:53:40.644133 :: timer ++ 3
+2024-08-17 16:53:40.646140 :: SCROLLING DONE 
+2024-08-17 16:53:40.658142 :: SPENT time forstone and tile - 0:01:07.261788

@@ -1,0 +1,18 @@
+
+2024-08-17 16:49:31.320427 :: Start
+2024-08-17 16:49:33.324009 :: PROCESS FOR - xpel ppf STARTED
+2024-08-17 16:49:33.324009 :: https://www.google.ca/maps/@28.4332443,-81.4682186,10.75z?entry=ttu
+2024-08-17 16:49:40.496548 :: open site - https://www.google.ca/maps/@28.4332443,-81.4682186,10.75z?entry=ttu
+2024-08-17 16:49:42.418915 :: DATA for searching:
+LOCATION:28.4332443,-81.4682186,10.75z
+INTEREST:xpel ppf
+CITY:Orlando
+2024-08-17 16:49:43.184992 :: search  - xpel ppf
+2024-08-17 16:49:43.195002 :: Insert key-word:xpel ppf
+2024-08-17 16:49:45.608046 :: pressed search button
+2024-08-17 16:49:49.629127 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="9372884d-4a10-4f7a-81a5-5fb42d7805c8", element="7dfb68f4-f496-4840-99d4-64a749f53c72")>
+2024-08-17 16:49:49.629655 :: SCROLLING STARTED
+2024-08-17 16:50:09.769135 :: timer ++ 2
+2024-08-17 16:50:39.899433 :: timer ++ 3
+2024-08-17 16:50:39.899433 :: SCROLLING DONE 
+2024-08-17 16:50:39.904434 :: SPENT time forxpel ppf - 0:01:06.580425

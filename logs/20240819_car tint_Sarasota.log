@@ -1,0 +1,18 @@
+
+2024-08-19 10:32:52.251552 :: Start
+2024-08-19 10:32:54.257311 :: PROCESS FOR - car tint STARTED
+2024-08-19 10:32:54.258321 :: https://www.google.ca/maps/@27.3460538,-82.4998157,12z?entry=ttu
+2024-08-19 10:33:13.085482 :: open site - https://www.google.ca/maps/@27.3460538,-82.4998157,12z?entry=ttu
+2024-08-19 10:33:15.247824 :: DATA for searching:
+LOCATION:27.3460538,-82.4998157,12z
+INTEREST:car tint
+CITY:Sarasota
+2024-08-19 10:33:15.673325 :: search  - car tint
+2024-08-19 10:33:15.699327 :: Insert key-word:car tint
+2024-08-19 10:33:18.020822 :: pressed search button
+2024-08-19 10:33:22.046109 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="572103bd-113f-49ed-b0f7-73591ba5473e", element="7391134b-ad3a-4241-941f-5ae21d8fb03c")>
+2024-08-19 10:33:22.046109 :: SCROLLING STARTED
+2024-08-19 10:33:42.181953 :: timer ++ 2
+2024-08-19 10:34:12.329401 :: timer ++ 3
+2024-08-19 10:34:12.330400 :: SCROLLING DONE 
+2024-08-19 10:34:12.351402 :: SPENT time forcar tint - 0:01:18.088090

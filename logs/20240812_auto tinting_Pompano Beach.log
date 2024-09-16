@@ -1,0 +1,36 @@
+
+2024-08-12 20:56:59.163965 :: Start
+2024-08-12 20:57:01.166313 :: PROCESS FOR - auto tinting STARTED
+2024-08-12 20:57:01.166313 :: https://www.google.com/maps/@26.251814,-80.1783165,13z?entry=ttu
+2024-08-12 20:57:07.627935 :: open site - https://www.google.com/maps/@26.251814,-80.1783165,13z?entry=ttu
+2024-08-12 20:57:09.940975 :: DATA for searching:
+LOCATION:26.251814,-80.1783165,13z
+INTEREST:auto tinting
+CITY:Pompano Beach
+2024-08-12 20:57:10.507935 :: search  - auto tinting
+2024-08-12 20:57:10.509935 :: Insert key-word:auto tinting
+2024-08-12 20:57:12.911593 :: pressed search button
+2024-08-12 20:57:16.942770 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="47cf83c7-5d6d-4749-bc49-6c7a8be77d13", element="660f5b2b-17e9-4e95-b139-d7786a4bb609")>
+2024-08-12 20:57:16.950288 :: One scroll - 1500
+2024-08-12 20:57:18.960961 :: One scroll - 1500
+2024-08-12 20:57:20.967684 :: One scroll - 1500
+2024-08-12 20:57:22.984106 :: One scroll - 1500
+2024-08-12 20:57:25.001773 :: One scroll - 1500
+2024-08-12 20:57:27.008903 :: One scroll - 1500
+2024-08-12 20:57:29.021517 :: One scroll - 1500
+2024-08-12 20:57:31.027800 :: One scroll - 1500
+2024-08-12 20:57:33.036174 :: One scroll - 1500
+2024-08-12 20:57:35.053881 :: One scroll - 1500
+2024-08-12 20:57:37.054048 :: timer ++ 2
+2024-08-12 20:57:37.058494 :: One scroll - 1500
+2024-08-12 20:57:40.078929 :: One scroll - 1500
+2024-08-12 20:57:43.265032 :: One scroll - 1500
+2024-08-12 20:57:46.280132 :: One scroll - 1500
+2024-08-12 20:57:49.288888 :: One scroll - 1500
+2024-08-12 20:57:52.296312 :: One scroll - 1500
+2024-08-12 20:57:55.313272 :: One scroll - 1500
+2024-08-12 20:57:58.333964 :: One scroll - 1500
+2024-08-12 20:58:01.507016 :: One scroll - 1500
+2024-08-12 20:58:04.530688 :: One scroll - 1500
+2024-08-12 20:58:07.534466 :: timer ++ 3
+2024-08-12 20:58:07.537985 :: SPENT time forauto tinting - 0:01:06.371672

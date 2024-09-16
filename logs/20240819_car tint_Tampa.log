@@ -1,0 +1,18 @@
+
+2024-08-19 10:29:52.168242 :: Start
+2024-08-19 10:29:54.176196 :: PROCESS FOR - car tint STARTED
+2024-08-19 10:29:54.176196 :: https://www.google.ca/maps/@27.9720675,-82.5388135,11.5z?entry=ttu
+2024-08-19 10:30:11.439888 :: open site - https://www.google.ca/maps/@27.9720675,-82.5388135,11.5z?entry=ttu
+2024-08-19 10:30:13.433283 :: DATA for searching:
+LOCATION:27.9720675,-82.5388135,11.5z
+INTEREST:car tint
+CITY:Tampa
+2024-08-19 10:30:14.136828 :: search  - car tint
+2024-08-19 10:30:14.139349 :: Insert key-word:car tint
+2024-08-19 10:30:16.553138 :: pressed search button
+2024-08-19 10:30:20.586571 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="58280261-84d9-4c3b-8492-42d4e6dd02a3", element="8eec3c1a-9b65-4c9e-846e-9eba01114136")>
+2024-08-19 10:30:20.586571 :: SCROLLING STARTED
+2024-08-19 10:30:40.724060 :: timer ++ 2
+2024-08-19 10:31:11.039626 :: timer ++ 3
+2024-08-19 10:31:11.041627 :: SCROLLING DONE 
+2024-08-19 10:31:11.056636 :: SPENT time forcar tint - 0:01:16.880440

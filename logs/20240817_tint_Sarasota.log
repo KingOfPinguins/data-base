@@ -1,0 +1,18 @@
+
+2024-08-17 16:54:31.422737 :: Start
+2024-08-17 16:54:33.423695 :: PROCESS FOR - tint STARTED
+2024-08-17 16:54:33.423695 :: https://www.google.ca/maps/@27.3460538,-82.4998157,12z?entry=ttu
+2024-08-17 16:54:40.233584 :: open site - https://www.google.ca/maps/@27.3460538,-82.4998157,12z?entry=ttu
+2024-08-17 16:54:43.228031 :: DATA for searching:
+LOCATION:27.3460538,-82.4998157,12z
+INTEREST:tint
+CITY:Sarasota
+2024-08-17 16:54:43.405085 :: search  - tint
+2024-08-17 16:54:43.413085 :: Insert key-word:tint
+2024-08-17 16:54:45.794840 :: pressed search button
+2024-08-17 16:54:49.810428 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="be5864c5-0d00-494e-83ba-bf52a63513fd", element="3c2680d2-fdb9-4a51-a505-5ab615f45936")>
+2024-08-17 16:54:49.810428 :: SCROLLING STARTED
+2024-08-17 16:55:09.948246 :: timer ++ 2
+2024-08-17 16:55:40.048544 :: timer ++ 3
+2024-08-17 16:55:40.048544 :: SCROLLING DONE 
+2024-08-17 16:55:40.053547 :: SPENT time fortint - 0:01:06.629852

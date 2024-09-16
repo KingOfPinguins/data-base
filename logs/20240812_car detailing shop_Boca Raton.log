@@ -1,0 +1,36 @@
+
+2024-08-12 20:55:19.176712 :: Start
+2024-08-12 20:55:21.182027 :: PROCESS FOR - car detailing shop STARTED
+2024-08-12 20:55:21.182027 :: https://www.google.com/maps/@26.3729004,-80.158565,13z?entry=ttu
+2024-08-12 20:55:27.699771 :: open site - https://www.google.com/maps/@26.3729004,-80.158565,13z?entry=ttu
+2024-08-12 20:55:29.943200 :: DATA for searching:
+LOCATION:26.3729004,-80.158565,13z
+INTEREST:car detailing shop
+CITY:Boca Raton
+2024-08-12 20:55:30.476085 :: search  - car detailing shop
+2024-08-12 20:55:30.476085 :: Insert key-word:car detailing shop
+2024-08-12 20:55:32.752794 :: pressed search button
+2024-08-12 20:55:36.788949 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="0871f125-e615-4ac5-8406-4a3132f5438b", element="f5bb9aee-bbab-4c61-a458-3cb1f18f7749")>
+2024-08-12 20:55:36.794951 :: One scroll - 1500
+2024-08-12 20:55:38.812382 :: One scroll - 1500
+2024-08-12 20:55:40.824093 :: One scroll - 1500
+2024-08-12 20:55:42.831639 :: One scroll - 1500
+2024-08-12 20:55:44.837428 :: One scroll - 1500
+2024-08-12 20:55:46.844743 :: One scroll - 1500
+2024-08-12 20:55:48.855439 :: One scroll - 1500
+2024-08-12 20:55:50.871948 :: One scroll - 1500
+2024-08-12 20:55:52.879896 :: One scroll - 1500
+2024-08-12 20:55:54.905748 :: One scroll - 1500
+2024-08-12 20:55:56.910557 :: timer ++ 2
+2024-08-12 20:55:56.916557 :: One scroll - 1500
+2024-08-12 20:55:59.934833 :: One scroll - 1500
+2024-08-12 20:56:02.948983 :: One scroll - 1500
+2024-08-12 20:56:05.955339 :: One scroll - 1500
+2024-08-12 20:56:08.970747 :: One scroll - 1500
+2024-08-12 20:56:11.989399 :: One scroll - 1500
+2024-08-12 20:56:14.998686 :: One scroll - 1500
+2024-08-12 20:56:18.010983 :: One scroll - 1500
+2024-08-12 20:56:21.034006 :: One scroll - 1500
+2024-08-12 20:56:24.045817 :: One scroll - 1500
+2024-08-12 20:56:27.053901 :: timer ++ 3
+2024-08-12 20:56:27.057422 :: SPENT time forcar detailing shop - 0:01:05.875395

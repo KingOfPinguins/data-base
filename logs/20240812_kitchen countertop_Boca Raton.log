@@ -1,0 +1,36 @@
+
+2024-08-12 20:55:19.177711 :: Start
+2024-08-12 20:55:21.182898 :: PROCESS FOR - kitchen countertop STARTED
+2024-08-12 20:55:21.182898 :: https://www.google.com/maps/@26.3729004,-80.158565,13z?entry=ttu
+2024-08-12 20:55:27.580241 :: open site - https://www.google.com/maps/@26.3729004,-80.158565,13z?entry=ttu
+2024-08-12 20:55:29.868873 :: DATA for searching:
+LOCATION:26.3729004,-80.158565,13z
+INTEREST:kitchen countertop
+CITY:Boca Raton
+2024-08-12 20:55:30.324552 :: search  - kitchen countertop
+2024-08-12 20:55:30.327555 :: Insert key-word:kitchen countertop
+2024-08-12 20:55:32.624483 :: pressed search button
+2024-08-12 20:55:36.634771 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="eb49e6bf-8223-4c5d-90a9-0fc37002c7e8", element="343b1381-380f-4972-8ff1-80a5493621b6")>
+2024-08-12 20:55:36.687810 :: One scroll - 1500
+2024-08-12 20:55:38.701785 :: One scroll - 1500
+2024-08-12 20:55:40.716821 :: One scroll - 1500
+2024-08-12 20:55:42.722121 :: One scroll - 1500
+2024-08-12 20:55:44.727900 :: One scroll - 1500
+2024-08-12 20:55:46.738245 :: One scroll - 1500
+2024-08-12 20:55:48.747304 :: One scroll - 1500
+2024-08-12 20:55:50.763425 :: One scroll - 1500
+2024-08-12 20:55:52.771685 :: One scroll - 1500
+2024-08-12 20:55:54.790117 :: One scroll - 1500
+2024-08-12 20:55:56.803034 :: timer ++ 2
+2024-08-12 20:55:56.810031 :: One scroll - 1500
+2024-08-12 20:55:59.837704 :: One scroll - 1500
+2024-08-12 20:56:02.854924 :: One scroll - 1500
+2024-08-12 20:56:05.860905 :: One scroll - 1500
+2024-08-12 20:56:08.877243 :: One scroll - 1500
+2024-08-12 20:56:11.893657 :: One scroll - 1500
+2024-08-12 20:56:14.900203 :: One scroll - 1500
+2024-08-12 20:56:17.941742 :: One scroll - 1500
+2024-08-12 20:56:20.962765 :: One scroll - 1500
+2024-08-12 20:56:23.982606 :: One scroll - 1500
+2024-08-12 20:56:26.992220 :: timer ++ 3
+2024-08-12 20:56:26.996743 :: SPENT time forkitchen countertop - 0:01:05.813845

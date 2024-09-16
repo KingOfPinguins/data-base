@@ -1,0 +1,22 @@
+
+canada:
+  toronto: 'https://www.google.com/maps/@44.2608014,-81.281664,7z?entry=ttu'
+  ottawa: 'https://www.google.com/maps/@45.4289912,-75.709587,12.17z?entry=ttu'
+  montreal: 'https://www.google.com/maps/@45.5620384,-73.6274415,10.96z?entry=ttu'
+
+Alberta:	Edmonton
+British Columbia:	Victoria
+Manitoba:	Winnipeg
+New Brunswick:	Fredericton
+Newfoundland and Labrador:	St. John's
+Nova Scotia:	Halifax
+Ontario:	Toronto
+Prince Edward Island:	Charlottetown
+Quebec:	Quebec City
+Saskatchewan:	Regina
+Northwest Territories:	Yellowknife
+Nunavut:	Iqaluit
+Yukon:	Whitehorse
+
+#@46.8056635,-85.1367231,9z
+#@49.2578182,-123.2063034,12z

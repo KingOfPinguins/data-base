@@ -1,0 +1,170 @@
+
+2023-11-30 20:30:17.085683 :: Start
+2023-11-30 20:30:19.094110 :: PROCESS FOR -kitchen countertopSTARTED
+2023-11-30 20:30:19.094110 :: https://www.google.com/maps/@43.7182639,-79.7076911,10z?entry=ttu
+2023-11-30 20:30:27.651116 :: DATA for searching:
+LOCATION:43.7182639,-79.7076911,10z
+INTEREST:kitchen countertop
+CITY:Toronto
+2023-11-30 20:30:28.138176 :: Insert key-word:kitchen countertop
+2023-11-30 20:30:34.468010 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="f9b7e5eb-6087-44de-8023-9be538c6fdb1", element="ae4d3281-4996-40fc-8ecd-959798f8764a")>
+2023-11-30 20:30:34.476046 :: One scroll - 1500
+2023-11-30 20:30:36.476505 :: One scroll - 1500
+2023-11-30 20:30:38.479055 :: One scroll - 1500
+2023-11-30 20:30:40.489449 :: One scroll - 1500
+2023-11-30 20:30:42.505345 :: One scroll - 1500
+2023-11-30 20:30:44.514131 :: One scroll - 1500
+2023-11-30 20:30:46.522520 :: One scroll - 1500
+2023-11-30 20:30:48.522663 :: One scroll - 1500
+2023-11-30 20:30:50.533993 :: One scroll - 1500
+2023-11-30 20:30:52.543600 :: One scroll - 1500
+2023-11-30 20:30:54.557529 :: timer ++ 2
+2023-11-30 20:30:54.559846 :: One scroll - 1500
+2023-11-30 20:30:57.574254 :: One scroll - 1500
+2023-11-30 20:31:00.575998 :: One scroll - 1500
+2023-11-30 20:31:03.582872 :: One scroll - 1500
+2023-11-30 20:31:06.587377 :: One scroll - 1500
+2023-11-30 20:31:09.599343 :: One scroll - 1500
+2023-11-30 20:31:12.604548 :: One scroll - 1500
+2023-11-30 20:31:15.639189 :: One scroll - 1500
+2023-11-30 20:31:18.654792 :: One scroll - 1500
+2023-11-30 20:31:21.665072 :: One scroll - 1500
+2023-11-30 20:31:24.678710 :: timer ++ 3
+2023-11-30 20:31:24.678710 :: GETTING DATA counter: 0
+2023-11-30 20:31:34.691817 :: --- CONTINUE ---
+2023-11-30 20:31:38.111776 :: get data from element
+2023-11-30 20:31:38.143027 :: def_addr 120 Jevlan Dr #4, Woodbridge, ON L4L 8G3
+2023-11-30 20:31:38.143027 :: def_web_page agmrenovations.com
+2023-11-30 20:31:38.159689 :: def_phone (416) 477-5429
+2023-11-30 20:31:38.159689 :: <<<< 43.7182639,-79.7076911,10zkitchen countertopToronto1 >>>>
+2023-11-30 20:31:38.159689 :: <<<< 43.7182639,-79.7076911,10zkitchen countertopToronto1 >>>>
+2023-11-30 20:31:39.310820 :: GETTING DATA counter: 1
+2023-11-30 20:31:49.321057 :: --- CONTINUE ---
+2023-11-30 20:31:52.690800 :: get data from element
+2023-11-30 20:31:52.706433 :: def_addr 4450 Corporate Dr Unit 2, Burlington, ON L7L 5R3
+2023-11-30 20:31:52.722070 :: def_web_page greensvillesoapstone.com
+2023-11-30 20:31:52.739222 :: def_phone +1 888-957-8663
+2023-11-30 20:31:52.739222 :: <<<< 43.7182639,-79.7076911,10zkitchen countertopToronto2 >>>>
+2023-11-30 20:31:52.739222 :: <<<< 43.7182639,-79.7076911,10zkitchen countertopToronto2 >>>>
+2023-11-30 20:31:53.886328 :: GETTING DATA counter: 2
+2023-11-30 20:32:03.891948 :: --- CONTINUE ---
+2023-11-30 20:32:07.226891 :: get data from element
+2023-11-30 20:32:07.349056 :: def_addr 300 Wellington St E, Aurora, ON L4G 1J5
+2023-11-30 20:32:07.364693 :: def_web_page quartzcity.ca
+2023-11-30 20:32:07.380318 :: def_phone (647) 778-9696
+2023-11-30 20:32:07.380318 :: <<<< 43.7182639,-79.7076911,10zkitchen countertopToronto3 >>>>
+2023-11-30 20:32:07.380318 :: <<<< 43.7182639,-79.7076911,10zkitchen countertopToronto3 >>>>
+2023-11-30 20:32:08.510585 :: GETTING DATA counter: 3
+2023-11-30 20:32:18.520049 :: --- CONTINUE ---
+2023-11-30 20:32:21.827405 :: get data from element
+2023-11-30 20:32:21.968461 :: def_addr 10 Newkirk Rd Unit#14, Richmond Hill, ON L4C 5S3
+2023-11-30 20:32:21.984074 :: def_web_page caviarkitchenandstone.ca
+2023-11-30 20:32:31.992898 :: <<<< 43.7182639,-79.7076911,10zkitchen countertopToronto4 >>>>
+2023-11-30 20:32:31.992898 :: <<<< 43.7182639,-79.7076911,10zkitchen countertopToronto4 >>>>
+2023-11-30 20:32:33.123487 :: GETTING DATA counter: 4
+2023-11-30 20:32:43.130937 :: --- CONTINUE ---
+2023-11-30 20:32:46.532099 :: get data from element
+2023-11-30 20:32:46.673455 :: def_addr 1111 Gorham St #1, Newmarket, ON L3Y 8X8
+2023-11-30 20:32:46.673455 :: def_web_page xkitchen.ca
+2023-11-30 20:32:46.689255 :: def_phone (905) 235-5333
+2023-11-30 20:32:46.689255 :: <<<< 43.7182639,-79.7076911,10zkitchen countertopToronto5 >>>>
+2023-11-30 20:32:46.689255 :: <<<< 43.7182639,-79.7076911,10zkitchen countertopToronto5 >>>>
+2023-11-30 20:32:47.845324 :: GETTING DATA counter: 5
+2023-11-30 20:32:57.854486 :: --- CONTINUE ---
+2023-11-30 20:33:01.233848 :: get data from element
+2023-11-30 20:33:01.362624 :: def_addr 23 West Beaver Creek Rd #8, Richmond Hill, ON L4B 1K4
+2023-11-30 20:33:01.383226 :: def_web_page delsurmarble.ca
+2023-11-30 20:33:01.383226 :: def_phone (905) 764-5200
+2023-11-30 20:33:01.383226 :: <<<< 43.7182639,-79.7076911,10zkitchen countertopToronto6 >>>>
+2023-11-30 20:33:01.383226 :: <<<< 43.7182639,-79.7076911,10zkitchen countertopToronto6 >>>>
+2023-11-30 20:33:02.523092 :: GETTING DATA counter: 6
+2023-11-30 20:33:12.533689 :: --- CONTINUE ---
+2023-11-30 20:33:15.868196 :: get data from element
+2023-11-30 20:33:16.022327 :: def_addr 10950 Woodbine Ave Unit 10, Markham, ON L6C 0H9
+2023-11-30 20:33:16.022327 :: def_web_page sunjoystone.com
+2023-11-30 20:33:16.037970 :: def_phone (647) 407-5788
+2023-11-30 20:33:16.037970 :: <<<< 43.7182639,-79.7076911,10zkitchen countertopToronto7 >>>>
+2023-11-30 20:33:16.037970 :: <<<< 43.7182639,-79.7076911,10zkitchen countertopToronto7 >>>>
+2023-11-30 20:33:17.182301 :: GETTING DATA counter: 7
+2023-11-30 20:33:27.188861 :: --- CONTINUE ---
+2023-11-30 20:33:30.532125 :: get data from element
+2023-11-30 20:33:30.651544 :: def_addr 315 Esna Park Dr, Markham, ON L3R 1H4
+2023-11-30 20:33:30.667201 :: def_web_page cgdcabinetry.com
+2023-11-30 20:33:30.667201 :: def_phone (905) 470-6881
+2023-11-30 20:33:30.667201 :: <<<< 43.7182639,-79.7076911,10zkitchen countertopToronto8 >>>>
+2023-11-30 20:33:30.667201 :: <<<< 43.7182639,-79.7076911,10zkitchen countertopToronto8 >>>>
+2023-11-30 20:33:31.817715 :: GETTING DATA counter: 8
+2023-11-30 20:33:41.833306 :: --- CONTINUE ---
+2023-11-30 20:33:45.209974 :: get data from element
+2023-11-30 20:33:45.350710 :: def_addr 475 Edward Ave #10, Richmond Hill, ON L4C 5E5
+2023-11-30 20:33:45.353945 :: def_web_page harmonystone.ca
+2023-11-30 20:33:45.367276 :: def_phone (905) 508-5666
+2023-11-30 20:33:45.367276 :: <<<< 43.7182639,-79.7076911,10zkitchen countertopToronto9 >>>>
+2023-11-30 20:33:45.367276 :: <<<< 43.7182639,-79.7076911,10zkitchen countertopToronto9 >>>>
+2023-11-30 20:33:46.508009 :: GETTING DATA counter: 9
+2023-11-30 20:33:56.517993 :: --- CONTINUE ---
+2023-11-30 20:33:59.915759 :: get data from element
+2023-11-30 20:33:59.942404 :: def_addr 18170 Yonge Street, Unit A1A, 18170 Yonge St, East Gwillimbury, ON L9N 0J3
+2023-11-30 20:33:59.953447 :: def_web_page rockwoodkitchens.ca
+2023-11-30 20:33:59.961179 :: def_phone (289) 579-0202
+2023-11-30 20:33:59.961179 :: <<<< 43.7182639,-79.7076911,10zkitchen countertopToronto10 >>>>
+2023-11-30 20:33:59.961179 :: <<<< 43.7182639,-79.7076911,10zkitchen countertopToronto10 >>>>
+2023-11-30 20:34:01.111656 :: GETTING DATA counter: 10
+2023-11-30 20:34:11.118925 :: --- CONTINUE ---
+2023-11-30 20:34:14.533700 :: get data from element
+2023-11-30 20:34:14.567466 :: def_addr 5873 Hwy 7 #100, Markham, ON L3P 1A3
+2023-11-30 20:34:14.577472 :: def_web_page candorcabinets.com
+2023-11-30 20:34:14.586472 :: <<<< 43.7182639,-79.7076911,10zkitchen countertopToronto11 >>>>
+2023-11-30 20:34:14.586472 :: <<<< 43.7182639,-79.7076911,10zkitchen countertopToronto11 >>>>
+2023-11-30 20:34:15.655177 :: GETTING DATA counter: 11
+2023-11-30 20:34:25.661863 :: --- CONTINUE ---
+2023-11-30 20:34:29.011271 :: get data from element
+2023-11-30 20:34:29.133054 :: def_addr 1100 Gorham St #20, Newmarket, ON L3Y 8Y8
+2023-11-30 20:34:29.148685 :: def_web_page cabinetmagic.ca
+2023-11-30 20:34:29.148685 :: def_phone (905) 954-0967
+2023-11-30 20:34:29.148685 :: <<<< 43.7182639,-79.7076911,10zkitchen countertopToronto12 >>>>
+2023-11-30 20:34:29.148685 :: <<<< 43.7182639,-79.7076911,10zkitchen countertopToronto12 >>>>
+2023-11-30 20:34:30.274540 :: GETTING DATA counter: 12
+2023-11-30 20:34:40.284582 :: --- CONTINUE ---
+2023-11-30 20:34:43.616884 :: get data from element
+2023-11-30 20:34:43.772102 :: def_addr 2180 Steeles Ave W #2, Concord, ON L4K 2Y7
+2023-11-30 20:34:43.772102 :: def_web_page cgdcabinetry.com
+2023-11-30 20:34:53.784276 :: <<<< 43.7182639,-79.7076911,10zkitchen countertopToronto13 >>>>
+2023-11-30 20:34:53.784276 :: <<<< 43.7182639,-79.7076911,10zkitchen countertopToronto13 >>>>
+2023-11-30 20:34:54.933855 :: GETTING DATA counter: 13
+2023-11-30 20:35:04.942611 :: --- CONTINUE ---
+2023-11-30 20:35:08.326431 :: get data from element
+2023-11-30 20:35:08.342021 :: def_addr 41 Industrial Pkwy S, Aurora, ON L4G 3Y5
+2023-11-30 20:35:08.357646 :: def_web_page aurorakitchens.ca
+2023-11-30 20:35:08.357646 :: def_phone (905) 841-3393
+2023-11-30 20:35:08.357646 :: <<<< 43.7182639,-79.7076911,10zkitchen countertopToronto14 >>>>
+2023-11-30 20:35:08.357646 :: <<<< 43.7182639,-79.7076911,10zkitchen countertopToronto14 >>>>
+2023-11-30 20:35:09.505014 :: GETTING DATA counter: 14
+2023-11-30 20:35:19.516000 :: --- CONTINUE ---
+2023-11-30 20:35:22.846937 :: get data from element
+2023-11-30 20:35:32.934515 :: def_web_page stonnik.com
+2023-11-30 20:35:32.950161 :: <<<< 43.7182639,-79.7076911,10zkitchen countertopToronto15 >>>>
+2023-11-30 20:35:32.950161 :: <<<< 43.7182639,-79.7076911,10zkitchen countertopToronto15 >>>>
+2023-11-30 20:35:34.054977 :: GETTING DATA counter: 15
+2023-11-30 20:35:40.361730 :: --- CONTINUE ---
+2023-11-30 20:35:56.621224 :: Done except?
+2023-11-30 20:35:56.621224 :: GETTING DATA counter: 16
+2023-11-30 20:36:02.709753 :: Done except?
+2023-11-30 20:36:02.709753 :: GETTING DATA counter: 17
+2023-11-30 20:36:18.840919 :: Done except?
+2023-11-30 20:36:18.840919 :: GETTING DATA counter: 18
+2023-11-30 20:36:34.955187 :: Done except?
+2023-11-30 20:36:34.955187 :: GETTING DATA counter: 19
+2023-11-30 20:36:51.222060 :: Done except?
+2023-11-30 20:36:51.222060 :: GETTING DATA counter: 20
+2023-11-30 20:37:07.504850 :: Done except?
+2023-11-30 20:37:07.504850 :: GETTING DATA counter: 21
+2023-11-30 20:37:23.781109 :: Done except?
+2023-11-30 20:37:23.781109 :: GETTING DATA counter: 22
+2023-11-30 20:37:40.051323 :: Done except?
+2023-11-30 20:37:40.051323 :: GETTING DATA counter: 23
+2023-11-30 20:37:56.304176 :: Done except?
+2023-11-30 20:37:56.304176 :: GETTING DATA counter: 24
+2023-11-30 20:38:04.426146 :: Done except?
+2023-11-30 20:38:04.426146 :: break
+2023-11-30 20:38:04.426146 :: SPENT time forkitchen countertop - 0:07:45.332036

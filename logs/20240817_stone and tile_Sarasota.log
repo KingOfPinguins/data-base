@@ -1,0 +1,18 @@
+
+2024-08-17 16:54:31.419583 :: Start
+2024-08-17 16:54:33.423695 :: PROCESS FOR - stone and tile STARTED
+2024-08-17 16:54:33.423695 :: https://www.google.ca/maps/@27.3460538,-82.4998157,12z?entry=ttu
+2024-08-17 16:54:40.323109 :: open site - https://www.google.ca/maps/@27.3460538,-82.4998157,12z?entry=ttu
+2024-08-17 16:54:42.813926 :: DATA for searching:
+LOCATION:27.3460538,-82.4998157,12z
+INTEREST:stone and tile
+CITY:Sarasota
+2024-08-17 16:54:43.383561 :: search  - stone and tile
+2024-08-17 16:54:43.394572 :: Insert key-word:stone and tile
+2024-08-17 16:54:45.714832 :: pressed search button
+2024-08-17 16:54:49.745874 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="4608ae62-a74d-4d4b-92cf-63031f79f2d6", element="68d4f699-48e4-4a8c-8f15-c966a9863b57")>
+2024-08-17 16:54:49.746875 :: SCROLLING STARTED
+2024-08-17 16:55:09.885723 :: timer ++ 2
+2024-08-17 16:55:40.018242 :: timer ++ 3
+2024-08-17 16:55:40.018242 :: SCROLLING DONE 
+2024-08-17 16:55:40.025349 :: SPENT time forstone and tile - 0:01:06.601654

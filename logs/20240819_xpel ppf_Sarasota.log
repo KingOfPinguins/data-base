@@ -1,0 +1,18 @@
+
+2024-08-19 10:32:52.251552 :: Start
+2024-08-19 10:32:54.258321 :: PROCESS FOR - xpel ppf STARTED
+2024-08-19 10:32:54.258321 :: https://www.google.ca/maps/@27.3460538,-82.4998157,12z?entry=ttu
+2024-08-19 10:33:13.271228 :: open site - https://www.google.ca/maps/@27.3460538,-82.4998157,12z?entry=ttu
+2024-08-19 10:33:16.046737 :: DATA for searching:
+LOCATION:27.3460538,-82.4998157,12z
+INTEREST:xpel ppf
+CITY:Sarasota
+2024-08-19 10:33:16.585807 :: search  - xpel ppf
+2024-08-19 10:33:16.585807 :: Insert key-word:xpel ppf
+2024-08-19 10:33:18.986172 :: pressed search button
+2024-08-19 10:33:23.009337 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="b98760b0-602d-49fb-a184-2a15976009ac", element="1be90440-336e-49d7-b622-8bb7f6de2f95")>
+2024-08-19 10:33:23.011338 :: SCROLLING STARTED
+2024-08-19 10:33:43.127010 :: timer ++ 2
+2024-08-19 10:34:13.298502 :: timer ++ 3
+2024-08-19 10:34:13.333402 :: SCROLLING DONE 
+2024-08-19 10:34:13.378480 :: SPENT time forxpel ppf - 0:01:19.114605

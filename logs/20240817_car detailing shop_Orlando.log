@@ -1,0 +1,18 @@
+
+2024-08-17 16:48:31.149234 :: Start
+2024-08-17 16:48:33.159210 :: PROCESS FOR - car detailing shop STARTED
+2024-08-17 16:48:33.159210 :: https://www.google.ca/maps/@28.4332443,-81.4682186,10.75z?entry=ttu
+2024-08-17 16:48:39.612032 :: open site - https://www.google.ca/maps/@28.4332443,-81.4682186,10.75z?entry=ttu
+2024-08-17 16:48:41.849067 :: DATA for searching:
+LOCATION:28.4332443,-81.4682186,10.75z
+INTEREST:car detailing shop
+CITY:Orlando
+2024-08-17 16:48:42.168988 :: search  - car detailing shop
+2024-08-17 16:48:42.172751 :: Insert key-word:car detailing shop
+2024-08-17 16:48:44.455690 :: pressed search button
+2024-08-17 16:48:48.491330 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="2d5ac714-4cb6-47d6-9d5b-38b2d2b964cb", element="b8fd8d09-f277-4b6b-b807-6beb2c0e7ddd")>
+2024-08-17 16:48:48.491330 :: SCROLLING STARTED
+2024-08-17 16:49:08.632202 :: timer ++ 2
+2024-08-17 16:49:38.794445 :: timer ++ 3
+2024-08-17 16:49:38.795445 :: SCROLLING DONE 
+2024-08-17 16:49:38.800446 :: SPENT time forcar detailing shop - 0:01:05.641236

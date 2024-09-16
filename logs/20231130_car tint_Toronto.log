@@ -1,0 +1,169 @@
+
+2023-11-30 20:30:17.051912 :: Start
+2023-11-30 20:30:19.062853 :: PROCESS FOR -car tintSTARTED
+2023-11-30 20:30:19.062853 :: https://www.google.com/maps/@43.7182639,-79.7076911,10z?entry=ttu
+2023-11-30 20:30:27.601103 :: DATA for searching:
+LOCATION:43.7182639,-79.7076911,10z
+INTEREST:car tint
+CITY:Toronto
+2023-11-30 20:30:27.975777 :: Insert key-word:car tint
+2023-11-30 20:30:34.614879 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="f1246975-0331-4e72-aa09-c8b36f5eee96", element="f30efde5-f228-4cd9-a4f7-535a9aedaccc")>
+2023-11-30 20:30:34.618784 :: One scroll - 1500
+2023-11-30 20:30:36.629957 :: One scroll - 1500
+2023-11-30 20:30:38.631974 :: One scroll - 1500
+2023-11-30 20:30:40.634527 :: One scroll - 1500
+2023-11-30 20:30:42.636792 :: One scroll - 1500
+2023-11-30 20:30:44.652808 :: One scroll - 1500
+2023-11-30 20:30:46.659438 :: One scroll - 1500
+2023-11-30 20:30:48.672618 :: One scroll - 1500
+2023-11-30 20:30:50.680036 :: One scroll - 1500
+2023-11-30 20:30:52.681080 :: One scroll - 1500
+2023-11-30 20:30:54.682385 :: timer ++ 2
+2023-11-30 20:30:54.682385 :: One scroll - 1500
+2023-11-30 20:30:57.683894 :: One scroll - 1500
+2023-11-30 20:31:00.690264 :: One scroll - 1500
+2023-11-30 20:31:03.702588 :: One scroll - 1500
+2023-11-30 20:31:06.716206 :: One scroll - 1500
+2023-11-30 20:31:09.728747 :: One scroll - 1500
+2023-11-30 20:31:12.741828 :: One scroll - 1500
+2023-11-30 20:31:15.754641 :: One scroll - 1500
+2023-11-30 20:31:18.770035 :: One scroll - 1500
+2023-11-30 20:31:21.781563 :: One scroll - 1500
+2023-11-30 20:31:24.783816 :: timer ++ 3
+2023-11-30 20:31:24.783816 :: GETTING DATA counter: 0
+2023-11-30 20:31:34.791867 :: --- CONTINUE ---
+2023-11-30 20:31:38.260759 :: get data from element
+2023-11-30 20:31:38.279852 :: def_addr 126 Malcolm Rd Unit #7, Guelph, ON N1K 1J1
+2023-11-30 20:31:38.295477 :: def_web_page theguelphdetailingcompany.com
+2023-11-30 20:31:48.303377 :: <<<< 43.7182639,-79.7076911,10zcar tintToronto1 >>>>
+2023-11-30 20:31:48.303377 :: <<<< 43.7182639,-79.7076911,10zcar tintToronto1 >>>>
+2023-11-30 20:31:49.446506 :: GETTING DATA counter: 1
+2023-11-30 20:31:59.455659 :: --- CONTINUE ---
+2023-11-30 20:32:02.846337 :: get data from element
+2023-11-30 20:32:02.861832 :: def_addr 240 Bartor Rd Unit #4, North York, ON M9M 2W6
+2023-11-30 20:32:02.877457 :: def_web_page autowindowtinting.ca
+2023-11-30 20:32:02.877457 :: def_phone (647) 739-3676
+2023-11-30 20:32:02.877457 :: <<<< 43.7182639,-79.7076911,10zcar tintToronto2 >>>>
+2023-11-30 20:32:02.877457 :: <<<< 43.7182639,-79.7076911,10zcar tintToronto2 >>>>
+2023-11-30 20:32:04.033431 :: GETTING DATA counter: 2
+2023-11-30 20:32:14.042129 :: --- CONTINUE ---
+2023-11-30 20:32:17.376621 :: get data from element
+2023-11-30 20:32:17.402425 :: def_addr 6 Antoni Plaza, North York, ON M9N 2P6
+2023-11-30 20:32:27.428807 :: <<<< 43.7182639,-79.7076911,10zcar tintToronto3 >>>>
+2023-11-30 20:32:27.428807 :: <<<< 43.7182639,-79.7076911,10zcar tintToronto3 >>>>
+2023-11-30 20:32:28.549100 :: GETTING DATA counter: 3
+2023-11-30 20:32:38.560325 :: --- CONTINUE ---
+2023-11-30 20:32:41.874575 :: get data from element
+2023-11-30 20:32:41.890244 :: def_addr 346 Newkirk Rd Unit 14 & 15, Richmond Hill, ON L4C 0A9
+2023-11-30 20:32:51.930010 :: <<<< 43.7182639,-79.7076911,10zcar tintToronto4 >>>>
+2023-11-30 20:32:51.930010 :: <<<< 43.7182639,-79.7076911,10zcar tintToronto4 >>>>
+2023-11-30 20:32:53.076932 :: GETTING DATA counter: 4
+2023-11-30 20:33:03.088215 :: --- CONTINUE ---
+2023-11-30 20:33:06.485601 :: get data from element
+2023-11-30 20:33:06.501645 :: def_addr 152 Bullock Dr unit 11, Markham, ON L3P 1W2
+2023-11-30 20:33:06.517282 :: def_web_page markhamwindowtint.com
+2023-11-30 20:33:06.517282 :: <<<< 43.7182639,-79.7076911,10zcar tintToronto5 >>>>
+2023-11-30 20:33:06.517282 :: <<<< 43.7182639,-79.7076911,10zcar tintToronto5 >>>>
+2023-11-30 20:33:07.660553 :: GETTING DATA counter: 5
+2023-11-30 20:33:17.671272 :: --- CONTINUE ---
+2023-11-30 20:33:21.052671 :: get data from element
+2023-11-30 20:33:21.072883 :: def_addr 75 Cosburn Ave., East York, ON M4K 2G1
+2023-11-30 20:33:21.079128 :: def_web_page cartint.ca
+2023-11-30 20:33:21.079128 :: def_phone (647) 510-2135
+2023-11-30 20:33:21.079128 :: <<<< 43.7182639,-79.7076911,10zcar tintToronto6 >>>>
+2023-11-30 20:33:21.079128 :: <<<< 43.7182639,-79.7076911,10zcar tintToronto6 >>>>
+2023-11-30 20:33:22.245142 :: GETTING DATA counter: 6
+2023-11-30 20:33:32.263716 :: --- CONTINUE ---
+2023-11-30 20:33:35.607670 :: get data from element
+2023-11-30 20:33:35.623296 :: def_addr 160 Port Royal Ave, Kleinburg, ON L4H 3X7
+2023-11-30 20:33:35.639330 :: def_web_page jj-tints.business.site
+2023-11-30 20:33:35.639330 :: def_phone (647) 204-4426
+2023-11-30 20:33:35.639330 :: <<<< 43.7182639,-79.7076911,10zcar tintToronto7 >>>>
+2023-11-30 20:33:35.639330 :: <<<< 43.7182639,-79.7076911,10zcar tintToronto7 >>>>
+2023-11-30 20:33:36.782681 :: GETTING DATA counter: 7
+2023-11-30 20:33:46.790136 :: --- CONTINUE ---
+2023-11-30 20:33:50.211591 :: get data from element
+2023-11-30 20:33:50.227113 :: def_addr 18 Bram Ct #5, Brampton, ON L6W 3R6
+2023-11-30 20:33:50.242746 :: def_web_page business.site
+2023-11-30 20:33:50.255753 :: def_phone (437) 981-0020
+2023-11-30 20:33:50.255753 :: <<<< 43.7182639,-79.7076911,10zcar tintToronto8 >>>>
+2023-11-30 20:33:50.255753 :: <<<< 43.7182639,-79.7076911,10zcar tintToronto8 >>>>
+2023-11-30 20:33:51.405158 :: GETTING DATA counter: 8
+2023-11-30 20:34:01.417744 :: --- CONTINUE ---
+2023-11-30 20:34:04.758260 :: get data from element
+2023-11-30 20:34:04.774348 :: def_addr 700 Burnhamthorpe Rd W Unit 3, Mississauga, ON L5C 2R9
+2023-11-30 20:34:04.790000 :: def_web_page lifetimetints.com
+2023-11-30 20:34:04.805636 :: def_phone (548) 888-8468
+2023-11-30 20:34:04.805636 :: <<<< 43.7182639,-79.7076911,10zcar tintToronto9 >>>>
+2023-11-30 20:34:04.805636 :: <<<< 43.7182639,-79.7076911,10zcar tintToronto9 >>>>
+2023-11-30 20:34:05.949203 :: GETTING DATA counter: 9
+2023-11-30 20:34:15.961250 :: --- CONTINUE ---
+2023-11-30 20:34:19.299738 :: get data from element
+2023-11-30 20:34:19.315370 :: def_addr 308 Rutherford Rd S, Brampton, ON L6W 3K7
+2023-11-30 20:34:19.331007 :: def_web_page viper6tinting.ca
+2023-11-30 20:34:19.331007 :: def_phone (416) 991-0042
+2023-11-30 20:34:19.331007 :: <<<< 43.7182639,-79.7076911,10zcar tintToronto10 >>>>
+2023-11-30 20:34:19.331007 :: <<<< 43.7182639,-79.7076911,10zcar tintToronto10 >>>>
+2023-11-30 20:34:20.487802 :: GETTING DATA counter: 10
+2023-11-30 20:34:30.494249 :: --- CONTINUE ---
+2023-11-30 20:34:33.850712 :: get data from element
+2023-11-30 20:34:33.866306 :: def_addr 50 Pippin Rd Unit #70, Concord, ON L4J 4M4
+2023-11-30 20:34:33.881935 :: def_web_page instagram.com
+2023-11-30 20:34:33.897557 :: def_phone (416) 704-8468
+2023-11-30 20:34:33.897557 :: <<<< 43.7182639,-79.7076911,10zcar tintToronto11 >>>>
+2023-11-30 20:34:33.897557 :: <<<< 43.7182639,-79.7076911,10zcar tintToronto11 >>>>
+2023-11-30 20:34:35.034847 :: GETTING DATA counter: 11
+2023-11-30 20:34:45.044854 :: --- CONTINUE ---
+2023-11-30 20:34:48.492326 :: get data from element
+2023-11-30 20:34:48.507822 :: def_addr 360 Industrial Pkwy S unit#5, Aurora, ON L4G 3V7
+2023-11-30 20:34:48.523461 :: def_web_page shadowed-glass.ca
+2023-11-30 20:34:48.523461 :: def_phone (647) 802-5661
+2023-11-30 20:34:48.523461 :: <<<< 43.7182639,-79.7076911,10zcar tintToronto12 >>>>
+2023-11-30 20:34:48.523461 :: <<<< 43.7182639,-79.7076911,10zcar tintToronto12 >>>>
+2023-11-30 20:34:49.667190 :: GETTING DATA counter: 12
+2023-11-30 20:34:59.677071 :: --- CONTINUE ---
+2023-11-30 20:35:03.037914 :: get data from element
+2023-11-30 20:35:03.057174 :: def_addr 11 Heritage Rd, Markham, ON L3P 1M3
+2023-11-30 20:35:03.072755 :: def_web_page fxauto.com
+2023-11-30 20:35:03.081828 :: def_phone (905) 471-7555
+2023-11-30 20:35:03.081828 :: <<<< 43.7182639,-79.7076911,10zcar tintToronto13 >>>>
+2023-11-30 20:35:03.081828 :: <<<< 43.7182639,-79.7076911,10zcar tintToronto13 >>>>
+2023-11-30 20:35:04.207497 :: GETTING DATA counter: 13
+2023-11-30 20:35:14.215112 :: --- CONTINUE ---
+2023-11-30 20:35:17.557866 :: get data from element
+2023-11-30 20:35:17.576851 :: def_addr 305A Red Maple Rd, Richmond Hill, ON L4C 6P2
+2023-11-30 20:35:17.585224 :: def_web_page amp-motorsports.com
+2023-11-30 20:35:17.593800 :: def_phone (905) 760-1589
+2023-11-30 20:35:17.593800 :: <<<< 43.7182639,-79.7076911,10zcar tintToronto14 >>>>
+2023-11-30 20:35:17.593800 :: <<<< 43.7182639,-79.7076911,10zcar tintToronto14 >>>>
+2023-11-30 20:35:18.733843 :: GETTING DATA counter: 14
+2023-11-30 20:35:28.741717 :: --- CONTINUE ---
+2023-11-30 20:35:32.074508 :: get data from element
+2023-11-30 20:35:32.093857 :: def_addr 1200 Twinney Dr #12, Newmarket, ON L3Y 9E4
+2023-11-30 20:35:32.101190 :: def_web_page dworksautotintanddetailing.com
+2023-11-30 20:35:32.102577 :: def_phone (289) 338-2642
+2023-11-30 20:35:32.102577 :: <<<< 43.7182639,-79.7076911,10zcar tintToronto15 >>>>
+2023-11-30 20:35:32.102577 :: <<<< 43.7182639,-79.7076911,10zcar tintToronto15 >>>>
+2023-11-30 20:35:33.232226 :: GETTING DATA counter: 15
+2023-11-30 20:35:40.397356 :: --- CONTINUE ---
+2023-11-30 20:35:56.670680 :: Done except?
+2023-11-30 20:35:56.670680 :: GETTING DATA counter: 16
+2023-11-30 20:36:02.725382 :: Done except?
+2023-11-30 20:36:02.725382 :: GETTING DATA counter: 17
+2023-11-30 20:36:18.872172 :: Done except?
+2023-11-30 20:36:18.872172 :: GETTING DATA counter: 18
+2023-11-30 20:36:34.987245 :: Done except?
+2023-11-30 20:36:34.987245 :: GETTING DATA counter: 19
+2023-11-30 20:36:51.284431 :: Done except?
+2023-11-30 20:36:51.284431 :: GETTING DATA counter: 20
+2023-11-30 20:37:07.535997 :: Done except?
+2023-11-30 20:37:07.535997 :: GETTING DATA counter: 21
+2023-11-30 20:37:23.796552 :: Done except?
+2023-11-30 20:37:23.796552 :: GETTING DATA counter: 22
+2023-11-30 20:37:40.066124 :: Done except?
+2023-11-30 20:37:40.066124 :: GETTING DATA counter: 23
+2023-11-30 20:37:56.304176 :: Done except?
+2023-11-30 20:37:56.304176 :: GETTING DATA counter: 24
+2023-11-30 20:38:04.426146 :: Done except?
+2023-11-30 20:38:04.426146 :: break
+2023-11-30 20:38:04.426146 :: SPENT time forcar tint - 0:07:45.363293

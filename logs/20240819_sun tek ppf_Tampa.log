@@ -1,0 +1,18 @@
+
+2024-08-19 10:30:52.210287 :: Start
+2024-08-19 10:30:54.219349 :: PROCESS FOR - sun tek ppf STARTED
+2024-08-19 10:30:54.219349 :: https://www.google.ca/maps/@27.9720675,-82.5388135,11.5z?entry=ttu
+2024-08-19 10:31:13.821154 :: open site - https://www.google.ca/maps/@27.9720675,-82.5388135,11.5z?entry=ttu
+2024-08-19 10:31:15.714024 :: DATA for searching:
+LOCATION:27.9720675,-82.5388135,11.5z
+INTEREST:sun tek ppf
+CITY:Tampa
+2024-08-19 10:31:16.153129 :: search  - sun tek ppf
+2024-08-19 10:31:16.175657 :: Insert key-word:sun tek ppf
+2024-08-19 10:31:18.469046 :: pressed search button
+2024-08-19 10:31:22.483961 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="274f82df-5d9b-4703-aa94-53fce951aec1", element="3c2bd91c-b1ca-428b-9178-630bc541b3c7")>
+2024-08-19 10:31:22.484959 :: SCROLLING STARTED
+2024-08-19 10:31:42.634621 :: timer ++ 2
+2024-08-19 10:32:12.792204 :: timer ++ 3
+2024-08-19 10:32:12.792204 :: SCROLLING DONE 
+2024-08-19 10:32:12.799214 :: SPENT time forsun tek ppf - 0:01:18.578866

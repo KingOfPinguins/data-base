@@ -1,0 +1,18 @@
+
+2024-08-17 16:52:31.376392 :: Start
+2024-08-17 16:52:33.389353 :: PROCESS FOR - tint STARTED
+2024-08-17 16:52:33.389353 :: https://www.google.ca/maps/@27.9720675,-82.5388135,11.5z?entry=ttu
+2024-08-17 16:52:40.299802 :: open site - https://www.google.ca/maps/@27.9720675,-82.5388135,11.5z?entry=ttu
+2024-08-17 16:52:42.513839 :: DATA for searching:
+LOCATION:27.9720675,-82.5388135,11.5z
+INTEREST:tint
+CITY:Tampa
+2024-08-17 16:52:43.320104 :: search  - tint
+2024-08-17 16:52:43.330105 :: Insert key-word:tint
+2024-08-17 16:52:45.590164 :: pressed search button
+2024-08-17 16:52:49.608206 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="81aa07d0-b386-46e4-ad37-b610dba4b323", element="203c8790-103d-49c3-bd7e-f0a287ff99b4")>
+2024-08-17 16:52:49.608206 :: SCROLLING STARTED
+2024-08-17 16:53:09.733765 :: timer ++ 2
+2024-08-17 16:53:39.865717 :: timer ++ 3
+2024-08-17 16:53:39.865717 :: SCROLLING DONE 
+2024-08-17 16:53:39.871720 :: SPENT time fortint - 0:01:06.482367

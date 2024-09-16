@@ -1,0 +1,18 @@
+
+2024-08-17 16:50:31.348328 :: Start
+2024-08-17 16:50:33.358801 :: PROCESS FOR - tinting STARTED
+2024-08-17 16:50:33.358801 :: https://www.google.ca/maps/@28.4332443,-81.4682186,10.75z?entry=ttu
+2024-08-17 16:50:40.385528 :: open site - https://www.google.ca/maps/@28.4332443,-81.4682186,10.75z?entry=ttu
+2024-08-17 16:50:42.718772 :: DATA for searching:
+LOCATION:28.4332443,-81.4682186,10.75z
+INTEREST:tinting
+CITY:Orlando
+2024-08-17 16:50:43.254138 :: search  - tinting
+2024-08-17 16:50:43.257745 :: Insert key-word:tinting
+2024-08-17 16:50:45.675274 :: pressed search button
+2024-08-17 16:50:49.698100 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="daa324d4-00ad-4162-82c1-2371c3c26526", element="cf46e13a-c73c-49d6-a6ca-9b90cca0b574")>
+2024-08-17 16:50:49.698100 :: SCROLLING STARTED
+2024-08-17 16:51:09.842573 :: timer ++ 2
+2024-08-17 16:51:39.960676 :: timer ++ 3
+2024-08-17 16:51:39.960676 :: SCROLLING DONE 
+2024-08-17 16:51:39.966689 :: SPENT time fortinting - 0:01:06.606886

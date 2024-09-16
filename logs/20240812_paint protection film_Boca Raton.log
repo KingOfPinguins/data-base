@@ -1,0 +1,36 @@
+
+2024-08-12 20:56:09.318929 :: Start
+2024-08-12 20:56:11.330866 :: PROCESS FOR - paint protection film STARTED
+2024-08-12 20:56:11.330866 :: https://www.google.com/maps/@26.3729004,-80.158565,13z?entry=ttu
+2024-08-12 20:56:17.559458 :: open site - https://www.google.com/maps/@26.3729004,-80.158565,13z?entry=ttu
+2024-08-12 20:56:21.173980 :: DATA for searching:
+LOCATION:26.3729004,-80.158565,13z
+INTEREST:paint protection film
+CITY:Boca Raton
+2024-08-12 20:56:21.401788 :: search  - paint protection film
+2024-08-12 20:56:21.402788 :: Insert key-word:paint protection film
+2024-08-12 20:56:23.700169 :: pressed search button
+2024-08-12 20:56:27.722519 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="02741ee1-8ac4-4393-93b7-4844fe4391eb", element="2c023405-c444-4e30-a190-f525cfb4ab7e")>
+2024-08-12 20:56:27.730047 :: One scroll - 1500
+2024-08-12 20:56:29.738783 :: One scroll - 1500
+2024-08-12 20:56:31.743180 :: One scroll - 1500
+2024-08-12 20:56:33.763393 :: One scroll - 1500
+2024-08-12 20:56:35.778723 :: One scroll - 1500
+2024-08-12 20:56:37.782940 :: One scroll - 1500
+2024-08-12 20:56:39.796687 :: One scroll - 1500
+2024-08-12 20:56:41.811838 :: One scroll - 1500
+2024-08-12 20:56:43.817608 :: One scroll - 1500
+2024-08-12 20:56:45.823024 :: One scroll - 1500
+2024-08-12 20:56:47.824210 :: timer ++ 2
+2024-08-12 20:56:47.828297 :: One scroll - 1500
+2024-08-12 20:56:50.834109 :: One scroll - 1500
+2024-08-12 20:56:53.849477 :: One scroll - 1500
+2024-08-12 20:56:56.864502 :: One scroll - 1500
+2024-08-12 20:56:59.871261 :: One scroll - 1500
+2024-08-12 20:57:02.878002 :: One scroll - 1500
+2024-08-12 20:57:05.898749 :: One scroll - 1500
+2024-08-12 20:57:08.919264 :: One scroll - 1500
+2024-08-12 20:57:11.935343 :: One scroll - 1500
+2024-08-12 20:57:14.955015 :: One scroll - 1500
+2024-08-12 20:57:17.957050 :: timer ++ 3
+2024-08-12 20:57:17.961018 :: SPENT time forpaint protection film - 0:01:06.629155

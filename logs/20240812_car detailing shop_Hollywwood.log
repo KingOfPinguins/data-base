@@ -1,0 +1,36 @@
+
+2024-08-12 21:01:09.340689 :: Start
+2024-08-12 21:01:11.343229 :: PROCESS FOR - car detailing shop STARTED
+2024-08-12 21:01:11.343229 :: https://www.google.com/maps/@26.0396872,-80.2165776,13z?entry=ttu
+2024-08-12 21:01:17.684545 :: open site - https://www.google.com/maps/@26.0396872,-80.2165776,13z?entry=ttu
+2024-08-12 21:01:20.255191 :: DATA for searching:
+LOCATION:26.0396872,-80.2165776,13z
+INTEREST:car detailing shop
+CITY:Hollywwood
+2024-08-12 21:01:20.444518 :: search  - car detailing shop
+2024-08-12 21:01:20.444614 :: Insert key-word:car detailing shop
+2024-08-12 21:01:22.805932 :: pressed search button
+2024-08-12 21:01:26.826539 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="299f4fbe-fc66-46aa-932a-7d285fa8ff8a", element="6fc4e963-3b26-4656-90bc-15c0160bae4b")>
+2024-08-12 21:01:26.833541 :: One scroll - 1500
+2024-08-12 21:01:28.845974 :: One scroll - 1500
+2024-08-12 21:01:30.858360 :: One scroll - 1500
+2024-08-12 21:01:32.874930 :: One scroll - 1500
+2024-08-12 21:01:34.887771 :: One scroll - 1500
+2024-08-12 21:01:36.904947 :: One scroll - 1500
+2024-08-12 21:01:39.012754 :: One scroll - 1500
+2024-08-12 21:01:41.026193 :: One scroll - 1500
+2024-08-12 21:01:43.030215 :: One scroll - 1500
+2024-08-12 21:01:45.035150 :: One scroll - 1500
+2024-08-12 21:01:47.047994 :: timer ++ 2
+2024-08-12 21:01:47.061644 :: One scroll - 1500
+2024-08-12 21:01:50.070938 :: One scroll - 1500
+2024-08-12 21:01:53.085884 :: One scroll - 1500
+2024-08-12 21:01:56.094760 :: One scroll - 1500
+2024-08-12 21:01:59.108554 :: One scroll - 1500
+2024-08-12 21:02:02.115316 :: One scroll - 1500
+2024-08-12 21:02:05.130531 :: One scroll - 1500
+2024-08-12 21:02:08.162423 :: One scroll - 1500
+2024-08-12 21:02:11.178867 :: One scroll - 1500
+2024-08-12 21:02:14.191736 :: One scroll - 1500
+2024-08-12 21:02:17.203110 :: timer ++ 3
+2024-08-12 21:02:17.206110 :: SPENT time forcar detailing shop - 0:01:05.862881

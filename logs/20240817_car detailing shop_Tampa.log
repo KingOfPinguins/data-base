@@ -1,0 +1,18 @@
+
+2024-08-17 16:51:31.442466 :: Start
+2024-08-17 16:51:33.444460 :: PROCESS FOR - car detailing shop STARTED
+2024-08-17 16:51:33.444460 :: https://www.google.ca/maps/@27.9720675,-82.5388135,11.5z?entry=ttu
+2024-08-17 16:51:40.409336 :: open site - https://www.google.ca/maps/@27.9720675,-82.5388135,11.5z?entry=ttu
+2024-08-17 16:51:42.845826 :: DATA for searching:
+LOCATION:27.9720675,-82.5388135,11.5z
+INTEREST:car detailing shop
+CITY:Tampa
+2024-08-17 16:51:43.434481 :: search  - car detailing shop
+2024-08-17 16:51:43.435483 :: Insert key-word:car detailing shop
+2024-08-17 16:51:45.731835 :: pressed search button
+2024-08-17 16:51:49.745550 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="b838c35d-419b-49a3-a745-60af83bb3eb6", element="b1b1b0d4-b772-4219-8300-aa2f60da53ec")>
+2024-08-17 16:51:49.745550 :: SCROLLING STARTED
+2024-08-17 16:52:09.893210 :: timer ++ 2
+2024-08-17 16:52:40.005608 :: timer ++ 3
+2024-08-17 16:52:40.008608 :: SCROLLING DONE 
+2024-08-17 16:52:40.015117 :: SPENT time forcar detailing shop - 0:01:06.570657

@@ -1,0 +1,18 @@
+
+2024-08-19 10:29:52.171243 :: Start
+2024-08-19 10:29:54.177068 :: PROCESS FOR - tint STARTED
+2024-08-19 10:29:54.177068 :: https://www.google.ca/maps/@28.4332443,-81.4682186,10.75z?entry=ttu
+2024-08-19 10:30:11.456890 :: open site - https://www.google.ca/maps/@28.4332443,-81.4682186,10.75z?entry=ttu
+2024-08-19 10:30:13.235567 :: DATA for searching:
+LOCATION:28.4332443,-81.4682186,10.75z
+INTEREST:tint
+CITY:Orlando
+2024-08-19 10:30:13.653847 :: search  - tint
+2024-08-19 10:30:13.658131 :: Insert key-word:tint
+2024-08-19 10:30:15.984189 :: pressed search button
+2024-08-19 10:30:19.998826 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="232942f8-1793-4810-bd4e-b6128dbe06c2", element="bb74a556-5f3c-4621-b872-70944f92e7f4")>
+2024-08-19 10:30:19.998826 :: SCROLLING STARTED
+2024-08-19 10:30:40.122738 :: timer ++ 2
+2024-08-19 10:31:10.234582 :: timer ++ 3
+2024-08-19 10:31:10.236583 :: SCROLLING DONE 
+2024-08-19 10:31:10.241583 :: SPENT time fortint - 0:01:16.063514

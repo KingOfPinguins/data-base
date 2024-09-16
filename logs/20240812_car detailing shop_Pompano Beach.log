@@ -1,0 +1,36 @@
+
+2024-08-12 20:56:59.163965 :: Start
+2024-08-12 20:57:01.166313 :: PROCESS FOR - car detailing shop STARTED
+2024-08-12 20:57:01.166313 :: https://www.google.com/maps/@26.251814,-80.1783165,13z?entry=ttu
+2024-08-12 20:57:07.275587 :: open site - https://www.google.com/maps/@26.251814,-80.1783165,13z?entry=ttu
+2024-08-12 20:57:09.410329 :: DATA for searching:
+LOCATION:26.251814,-80.1783165,13z
+INTEREST:car detailing shop
+CITY:Pompano Beach
+2024-08-12 20:57:10.009709 :: search  - car detailing shop
+2024-08-12 20:57:10.101015 :: Insert key-word:car detailing shop
+2024-08-12 20:57:12.424173 :: pressed search button
+2024-08-12 20:57:16.445240 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="4488ed9f-7444-47b0-96e9-b96b84a4ef21", element="be44329c-3291-4a89-b087-cf2b95ebed8a")>
+2024-08-12 20:57:16.449760 :: One scroll - 1500
+2024-08-12 20:57:18.461038 :: One scroll - 1500
+2024-08-12 20:57:20.469394 :: One scroll - 1500
+2024-08-12 20:57:22.484288 :: One scroll - 1500
+2024-08-12 20:57:24.502537 :: One scroll - 1500
+2024-08-12 20:57:26.514357 :: One scroll - 1500
+2024-08-12 20:57:28.520765 :: One scroll - 1500
+2024-08-12 20:57:30.532187 :: One scroll - 1500
+2024-08-12 20:57:32.538383 :: One scroll - 1500
+2024-08-12 20:57:34.555962 :: One scroll - 1500
+2024-08-12 20:57:36.561443 :: timer ++ 2
+2024-08-12 20:57:36.566766 :: One scroll - 1500
+2024-08-12 20:57:39.576418 :: One scroll - 1500
+2024-08-12 20:57:42.595827 :: One scroll - 1500
+2024-08-12 20:57:45.619930 :: One scroll - 1500
+2024-08-12 20:57:48.636948 :: One scroll - 1500
+2024-08-12 20:57:51.648578 :: One scroll - 1500
+2024-08-12 20:57:54.662550 :: One scroll - 1500
+2024-08-12 20:57:57.668084 :: One scroll - 1500
+2024-08-12 20:58:00.787005 :: One scroll - 1500
+2024-08-12 20:58:03.805415 :: One scroll - 1500
+2024-08-12 20:58:06.807811 :: timer ++ 3
+2024-08-12 20:58:06.835417 :: SPENT time forcar detailing shop - 0:01:05.669104

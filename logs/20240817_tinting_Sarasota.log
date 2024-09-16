@@ -1,0 +1,18 @@
+
+2024-08-17 16:55:31.325836 :: Start
+2024-08-17 16:55:33.338797 :: PROCESS FOR - tinting STARTED
+2024-08-17 16:55:33.338797 :: https://www.google.ca/maps/@27.3460538,-82.4998157,12z?entry=ttu
+2024-08-17 16:55:38.591939 :: open site - https://www.google.ca/maps/@27.3460538,-82.4998157,12z?entry=ttu
+2024-08-17 16:55:39.882240 :: DATA for searching:
+LOCATION:27.3460538,-82.4998157,12z
+INTEREST:tinting
+CITY:Sarasota
+2024-08-17 16:55:39.966585 :: search  - tinting
+2024-08-17 16:55:39.966585 :: Insert key-word:tinting
+2024-08-17 16:55:42.208378 :: pressed search button
+2024-08-17 16:55:46.234774 :: List item found:<selenium.webdriver.remote.webelement.WebElement (session="795db62e-080a-4401-8c25-b5d41dadb27f", element="a6bddc9f-4b8b-468d-b7c7-74daf484e9ce")>
+2024-08-17 16:55:46.234774 :: SCROLLING STARTED
+2024-08-17 16:56:06.390888 :: timer ++ 2
+2024-08-17 16:56:36.473666 :: timer ++ 3
+2024-08-17 16:56:36.473666 :: SCROLLING DONE 
+2024-08-17 16:56:36.476684 :: SPENT time fortinting - 0:01:03.137887
